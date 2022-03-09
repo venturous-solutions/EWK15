@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_dog_color_dms_user,access_dog_color_dms_user,model_dog_color,vs_ewkdms.group_dms_user,1,0,0,0
+access_dog_color_dms_admin,access_dog_color_dms_admin,model_dog_color,vs_ewkdms.group_dms_administrator,1,1,1,1
+access_dog_breed_dms_user,access_dog_breed_dms_user,model_dog_breed,vs_ewkdms.group_dms_user,1,0,0,0
+access_dog_breed_dms_admin,access_dog_breed_dms_admin,model_dog_breed,vs_ewkdms.group_dms_administrator,1,1,1,1
+access_dog_food_dms_user,access_dog_food_dms_user,model_dog_food,vs_ewkdms.group_dms_user,1,0,0,0
+access_dog_food_dms_admin,access_dog_food_dms_admin,model_dog_food,vs_ewkdms.group_dms_administrator,1,1,1,1
+access_people_behavior_dms_user,access_people_behavior_dms_user,model_people_behavior,vs_ewkdms.group_dms_user,1,0,0,0
+access_people_behavior_dms_admin,access_people_behavior_dms_admin,model_people_behavior,vs_ewkdms.group_dms_administrator,1,1,1,1
+access_dog_dog_dms_user,access_dog_dog_dms_user,model_dog_dog,vs_ewkdms.group_dms_user,1,0,0,0
+access_dog_dog_dms_admin,access_dog_dog_dms_admin,model_dog_dog,vs_ewkdms.group_dms_administrator,1,1,1,1

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <record id="view_form_crm_lead_custom" model="ir.ui.view">
+      <field name="name">view.form.crm.lead.custom</field>
+      <field name="model">crm.lead</field>
+      <field name="inherit_id" ref="crm.crm_lead_view_form" />
+      <field name="priority">1010</field>
+      <field name="arch" type="xml">
+        <xpath expr="//field[@name='user_id']" position="before">
+          <field name="dog_id" domain="[('owner_id', '=', partner_id)]" />
+          <field name="breed" />
+          <field name="gender" />
+          <field name="dog_birth_date" />
+        </xpath>
+      </field>
+    </record>
+    
+    <record id="crm_lead_view_form_custom" model="ir.ui.view">
+      <field name="name">view.form.crm.lead.view.custom</field>
+      <field name="model">crm.lead</field>
+      <field name="inherit_id" ref="crm.crm_lead_view_form" />
+      <field name="priority">1</field>
+      <field name="arch" type="xml">
+        <xpath expr="//header//button" position="before">
+          <field name="info_complete" invisible="1"/>
+        </xpath>
+        <xpath expr="//button[@name='%(crm.action_crm_lead2opportunity_partner)d']" position="replace">
+          <button name="%(crm.action_crm_lead2opportunity_partner)d" string="Convert to Opportunity" type="action" help="Convert to Opportunity"
+                  class="oe_highlight" attrs="{'invisible': ['|', '|', ('info_complete', '!=', True), ('type', '=', 'opportunity'), ('active', '=', False)]}"/>
+        </xpath>
+      </field>
+    </record>
+
+  </data>
+</odoo>

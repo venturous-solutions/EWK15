@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <!-- Top menu item: DMS -->
+    <menuitem name="DMS" id="menu_dms" web_icon="vs_ewkdms,static/description/dms_menu.png" groups="vs_ewkdms.group_dms_user" sequence="20" />
+
+    <!-- Menu Path : Dogs → Dogs -->
+    <record id="menu_dms_dogs" model="ir.ui.menu">
+      <field name="name">Dogs</field>
+      <field name="sequence" eval="10" />
+      <field name="action" ref="vs_ewkdms.action_dogs" />
+      <field name="parent_id" ref="vs_ewkdms.menu_dms" />
+    </record>
+
+    <!-- Menu Path : Dogs → Configuration -->
+    <menuitem id="dms_menu_config" name="Configuration" sequence="100" parent="vs_ewkdms.menu_dms" groups="vs_ewkdms.group_dms_administrator" />
+
+    <!-- Menu Path : Dogs → Configuration → Dog Colours -->
+    <record id="menu_dms_colors" model="ir.ui.menu">
+      <field name="name">Dog Colours</field>
+      <field name="sequence" eval="10" />
+      <field name="action" ref="vs_ewkdms.action_dog_colors" />
+      <field name="parent_id" ref="vs_ewkdms.dms_menu_config" />
+    </record>
+
+    <!-- Menu Path : Dogs → Configuration → Dog Breed -->
+    <record id="menu_dms_breed" model="ir.ui.menu">
+      <field name="name">Dog Breed</field>
+      <field name="sequence" eval="20" />
+      <field name="action" ref="vs_ewkdms.action_dog_breed" />
+      <field name="parent_id" ref="vs_ewkdms.dms_menu_config" />
+    </record>
+
+    <!-- Menu Path : Dogs → Configuration → Food Type -->
+    <record id="menu_dms_dog_food" model="ir.ui.menu">
+      <field name="name">Food Type</field>
+      <field name="sequence" eval="30" />
+      <field name="action" ref="vs_ewkdms.action_dog_food" />
+      <field name="parent_id" ref="vs_ewkdms.dms_menu_config" />
+    </record>
+
+    <!-- Menu Path : Dogs → Configuration → People Behavior -->
+    <record id="menu_dms_people_behavior" model="ir.ui.menu">
+      <field name="name">People Behavior</field>
+      <field name="sequence" eval="40" />
+      <field name="action" ref="vs_ewkdms.action_people_behavior" />
+      <field name="parent_id" ref="vs_ewkdms.dms_menu_config" />
+    </record>
+
+    
+
+  </data>
+</odoo>
