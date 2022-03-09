@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <!-- Tree dog.dog -->
+    <record id="tree_dog_dog" model="ir.ui.view">
+      <field name="name">tree.dog.dog</field>
+      <field name="model">dog.dog</field>
+      <field name="arch" type="xml">
+        <tree string="Color">
+          <field name="name" />
+          <field name="breed" />
+          <field name="color" />
+          <field name="owner_id" />
+          <field name="birth_date" />
+        </tree>
+      </field>
+    </record>
+
+    <!-- Form dog.dog -->
+    <record id="form_dog_dog" model="ir.ui.view">
+      <field name="name">form.dog.dog</field>
+      <field name="model">dog.dog</field>
+      <field name="arch" type="xml">
+        <form string="Dogs">
+          <sheet>
+            <field name="image" widget="image" class="oe_avatar" options="{'preview_image': 'image_128'}" />
+            <div class="oe_title">
+              <label class="oe_edit_only" for="name" string="Dog Name" />
+              <h1>
+                <field name="name" placeholder="Dog Name" />
+              </h1>
+            </div>
+            <group>
+              <group>
+                <field name="owner_id" />
+                <field name="breed" />
+                <field name="gender" />
+                <field name="color" />
+                <field name="people_beh" />
+                <field name="birth_date" />
+                <field name="estimated" />
+                <field name="food_type" />
+              </group>
+            </group>
+          </sheet>
+        </form>
+      </field>
+    </record>
+
+    <record id="action_dogs" model="ir.actions.act_window">
+      <field name="name">Dogs</field>
+      <field name="res_model">dog.dog</field>
+      <field name="view_mode">tree,form</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+          (0, 0, {'view_mode': 'tree', 'view_id': ref('vs_ewkdms.tree_dog_dog')}),
+          ]" />
+    </record>
+
+    <!-- Tree dog.color -->
+    <record id="tree_dog_color" model="ir.ui.view">
+      <field name="name">tree.dog.color</field>
+      <field name="model">dog.color</field>
+      <field name="arch" type="xml">
+        <tree editable="top" string="Color">
+          <field name="name" />
+          <field name="color" widget="color_picker" />
+        </tree>
+      </field>
+    </record>
+
+    <record id="action_dog_colors" model="ir.actions.act_window">
+      <field name="name">Dog Colours</field>
+      <field name="res_model">dog.color</field>
+      <field name="view_mode">tree,form</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+          (0, 0, {'view_mode': 'tree', 'view_id': ref('vs_ewkdms.tree_dog_color')}),
+          ]" />
+    </record>
+
+    <!-- Tree dog.breed -->
+    <record id="tree_dog_breed" model="ir.ui.view">
+      <field name="name">tree.dog.breed</field>
+      <field name="model">dog.breed</field>
+      <field name="arch" type="xml">
+        <tree string="Breed">
+          <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record id="action_dog_breed" model="ir.actions.act_window">
+      <field name="name">Dog Breed</field>
+      <field name="res_model">dog.breed</field>
+      <field name="view_mode">tree,form</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+          (0, 0, {'view_mode': 'tree', 'view_id': ref('vs_ewkdms.tree_dog_breed')}),
+          ]" />
+    </record>
+
+    <!-- Tree dog.food -->
+    <record id="tree_dog_food" model="ir.ui.view">
+      <field name="name">tree.dog.food</field>
+      <field name="model">dog.food</field>
+      <field name="arch" type="xml">
+        <tree string="Food Type">
+          <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record id="action_dog_food" model="ir.actions.act_window">
+      <field name="name">Food Type</field>
+      <field name="res_model">dog.food</field>
+      <field name="view_mode">tree,form</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+          (0, 0, {'view_mode': 'tree', 'view_id': ref('vs_ewkdms.tree_dog_food')}),
+          ]" />
+    </record>
+
+    <!-- Tree people.behavior -->
+    <record id="tree_people_behavior" model="ir.ui.view">
+      <field name="name">tree.people.behavior</field>
+      <field name="model">people.behavior</field>
+      <field name="arch" type="xml">
+        <tree string="People Behavior">
+          <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record id="action_people_behavior" model="ir.actions.act_window">
+      <field name="name">People Behavior</field>
+      <field name="res_model">people.behavior</field>
+      <field name="view_mode">tree,form</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+          (0, 0, {'view_mode': 'tree', 'view_id': ref('vs_ewkdms.tree_people_behavior')}),
+          ]" />
+    </record>
+
+  </data>
+</odoo>

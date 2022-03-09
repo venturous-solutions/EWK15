@@ -1,0 +1,3891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <record id="Color_0001" model="dog.color">
+      <field name="name">Absolute Zero </field>
+      <field name="hex_value">#0048BA</field>
+    </record>
+    <record id="Color_0002" model="dog.color">
+      <field name="name">Acid green </field>
+      <field name="hex_value">#B0BF1A</field>
+    </record>
+    <record id="Color_0003" model="dog.color">
+      <field name="name">Aero </field>
+      <field name="hex_value">#7CB9E8</field>
+    </record>
+    <record id="Color_0004" model="dog.color">
+      <field name="name">Aero blue </field>
+      <field name="hex_value">#C0E8D5</field>
+    </record>
+    <record id="Color_0005" model="dog.color">
+      <field name="name">African violet </field>
+      <field name="hex_value">#B284BE</field>
+    </record>
+    <record id="Color_0006" model="dog.color">
+      <field name="name">Air superiority blue </field>
+      <field name="hex_value">#72A0C1</field>
+    </record>
+    <record id="Color_0007" model="dog.color">
+      <field name="name">Alabaster </field>
+      <field name="hex_value">#EDEAE0</field>
+    </record>
+    <record id="Color_0008" model="dog.color">
+      <field name="name">Alice blue </field>
+      <field name="hex_value">#F0F8FF</field>
+    </record>
+    <record id="Color_0009" model="dog.color">
+      <field name="name">Alloy orange </field>
+      <field name="hex_value">#C46210</field>
+    </record>
+    <record id="Color_0010" model="dog.color">
+      <field name="name">Almond </field>
+      <field name="hex_value">#EFDECD</field>
+    </record>
+    <record id="Color_0011" model="dog.color">
+      <field name="name">Amaranth </field>
+      <field name="hex_value">#E52B50</field>
+    </record>
+    <record id="Color_0012" model="dog.color">
+      <field name="name">Amaranth (MP) </field>
+      <field name="hex_value">#9F2B68</field>
+    </record>
+    <record id="Color_0013" model="dog.color">
+      <field name="name">Amaranth pink </field>
+      <field name="hex_value">#F19CBB</field>
+    </record>
+    <record id="Color_0014" model="dog.color">
+      <field name="name">Amaranth purple </field>
+      <field name="hex_value">#AB274F</field>
+    </record>
+    <record id="Color_0015" model="dog.color">
+      <field name="name">Amaranth red </field>
+      <field name="hex_value">#D3212D</field>
+    </record>
+    <record id="Color_0016" model="dog.color">
+      <field name="name">Amazon </field>
+      <field name="hex_value">#3B7A57</field>
+    </record>
+    <record id="Color_0017" model="dog.color">
+      <field name="name">Amber </field>
+      <field name="hex_value">#FFBF00</field>
+    </record>
+    <record id="Color_0018" model="dog.color">
+      <field name="name">Amber (SAE/ECE) </field>
+      <field name="hex_value">#FF7E00</field>
+    </record>
+    <record id="Color_0019" model="dog.color">
+      <field name="name">Amethyst </field>
+      <field name="hex_value">#9966CC</field>
+    </record>
+    <record id="Color_0020" model="dog.color">
+      <field name="name">Android green </field>
+      <field name="hex_value">#A4C639</field>
+    </record>
+    <record id="Color_0021" model="dog.color">
+      <field name="name">Antique brass </field>
+      <field name="hex_value">#CD9575</field>
+    </record>
+    <record id="Color_0022" model="dog.color">
+      <field name="name">Antique bronze </field>
+      <field name="hex_value">#665D1E</field>
+    </record>
+    <record id="Color_0023" model="dog.color">
+      <field name="name">Antique fuchsia </field>
+      <field name="hex_value">#915C83</field>
+    </record>
+    <record id="Color_0024" model="dog.color">
+      <field name="name">Antique ruby </field>
+      <field name="hex_value">#841B2D</field>
+    </record>
+    <record id="Color_0025" model="dog.color">
+      <field name="name">Antique white </field>
+      <field name="hex_value">#FAEBD7</field>
+    </record>
+    <record id="Color_0026" model="dog.color">
+      <field name="name">Ao (English) </field>
+      <field name="hex_value">#008000</field>
+    </record>
+    <record id="Color_0027" model="dog.color">
+      <field name="name">Apple green </field>
+      <field name="hex_value">#8DB600</field>
+    </record>
+    <record id="Color_0028" model="dog.color">
+      <field name="name">Apricot </field>
+      <field name="hex_value">#FBCEB1</field>
+    </record>
+    <record id="Color_0029" model="dog.color">
+      <field name="name">Aqua </field>
+      <field name="hex_value">#00FFFF</field>
+    </record>
+    <record id="Color_0030" model="dog.color">
+      <field name="name">Aquamarine </field>
+      <field name="hex_value">#7FFFD4</field>
+    </record>
+    <record id="Color_0031" model="dog.color">
+      <field name="name">Arctic lime </field>
+      <field name="hex_value">#D0FF14</field>
+    </record>
+    <record id="Color_0032" model="dog.color">
+      <field name="name">Army green </field>
+      <field name="hex_value">#4B5320</field>
+    </record>
+    <record id="Color_0033" model="dog.color">
+      <field name="name">Artichoke </field>
+      <field name="hex_value">#8F9779</field>
+    </record>
+    <record id="Color_0034" model="dog.color">
+      <field name="name">Arylide yellow </field>
+      <field name="hex_value">#E9D66B</field>
+    </record>
+    <record id="Color_0035" model="dog.color">
+      <field name="name">Ash gray </field>
+      <field name="hex_value">#B2BEB5</field>
+    </record>
+    <record id="Color_0036" model="dog.color">
+      <field name="name">Asparagus </field>
+      <field name="hex_value">#87A96B</field>
+    </record>
+    <record id="Color_0037" model="dog.color">
+      <field name="name">Atomic tangerine </field>
+      <field name="hex_value">#FF9966</field>
+    </record>
+    <record id="Color_0038" model="dog.color">
+      <field name="name">Auburn </field>
+      <field name="hex_value">#A52A2A</field>
+    </record>
+    <record id="Color_0039" model="dog.color">
+      <field name="name">Aureolin </field>
+      <field name="hex_value">#FDEE00</field>
+    </record>
+    <record id="Color_0040" model="dog.color">
+      <field name="name">Avocado </field>
+      <field name="hex_value">#568203</field>
+    </record>
+    <record id="Color_0041" model="dog.color">
+      <field name="name">Azure </field>
+      <field name="hex_value">#007FFF</field>
+    </record>
+    <record id="Color_0042" model="dog.color">
+      <field name="name">Azure (X11/web color) </field>
+      <field name="hex_value">#F0FFFF</field>
+    </record>
+    <record id="Color_0043" model="dog.color">
+      <field name="name">B'dazzled blue </field>
+      <field name="hex_value">#2E5894</field>
+    </record>
+    <record id="Color_0044" model="dog.color">
+      <field name="name">Baby blue </field>
+      <field name="hex_value">#89CFF0</field>
+    </record>
+    <record id="Color_0045" model="dog.color">
+      <field name="name">Baby blue eyes </field>
+      <field name="hex_value">#A1CAF1</field>
+    </record>
+    <record id="Color_0046" model="dog.color">
+      <field name="name">Baby pink </field>
+      <field name="hex_value">#F4C2C2</field>
+    </record>
+    <record id="Color_0047" model="dog.color">
+      <field name="name">Baby powder </field>
+      <field name="hex_value">#FEFEFA</field>
+    </record>
+    <record id="Color_0048" model="dog.color">
+      <field name="name">Baker-Miller pink </field>
+      <field name="hex_value">#FF91AF</field>
+    </record>
+    <record id="Color_0049" model="dog.color">
+      <field name="name">Banana Mania </field>
+      <field name="hex_value">#FAE7B5</field>
+    </record>
+    <record id="Color_0050" model="dog.color">
+      <field name="name">Barbie Pink </field>
+      <field name="hex_value">#DA1884</field>
+    </record>
+    <record id="Color_0051" model="dog.color">
+      <field name="name">Barn red </field>
+      <field name="hex_value">#7C0A02</field>
+    </record>
+    <record id="Color_0052" model="dog.color">
+      <field name="name">Battleship grey </field>
+      <field name="hex_value">#848482</field>
+    </record>
+    <record id="Color_0053" model="dog.color">
+      <field name="name">Beau blue </field>
+      <field name="hex_value">#BCD4E6</field>
+    </record>
+    <record id="Color_0054" model="dog.color">
+      <field name="name">Beaver </field>
+      <field name="hex_value">#9F8170</field>
+    </record>
+    <record id="Color_0055" model="dog.color">
+      <field name="name">Beige </field>
+      <field name="hex_value">#F5F5DC</field>
+    </record>
+    <record id="Color_0056" model="dog.color">
+      <field name="name">Big dip o’ruby </field>
+      <field name="hex_value">#9C2542</field>
+    </record>
+    <record id="Color_0057" model="dog.color">
+      <field name="name">Bisque </field>
+      <field name="hex_value">#FFE4C4</field>
+    </record>
+    <record id="Color_0058" model="dog.color">
+      <field name="name">Bistre </field>
+      <field name="hex_value">#3D2B1F</field>
+    </record>
+    <record id="Color_0059" model="dog.color">
+      <field name="name">Bistre brown </field>
+      <field name="hex_value">#967117</field>
+    </record>
+    <record id="Color_0060" model="dog.color">
+      <field name="name">Bitter lemon </field>
+      <field name="hex_value">#CAE00D</field>
+    </record>
+    <record id="Color_0061" model="dog.color">
+      <field name="name">Bitter lime </field>
+      <field name="hex_value">#BFFF00</field>
+    </record>
+    <record id="Color_0062" model="dog.color">
+      <field name="name">Bittersweet </field>
+      <field name="hex_value">#FE6F5E</field>
+    </record>
+    <record id="Color_0063" model="dog.color">
+      <field name="name">Bittersweet shimmer </field>
+      <field name="hex_value">#BF4F51</field>
+    </record>
+    <record id="Color_0064" model="dog.color">
+      <field name="name">Black </field>
+      <field name="hex_value">#000000</field>
+    </record>
+    <record id="Color_0065" model="dog.color">
+      <field name="name">Black bean </field>
+      <field name="hex_value">#3D0C02</field>
+    </record>
+    <record id="Color_0066" model="dog.color">
+      <field name="name">Black chocolate </field>
+      <field name="hex_value">#1B1811</field>
+    </record>
+    <record id="Color_0067" model="dog.color">
+      <field name="name">Black coffee </field>
+      <field name="hex_value">#3B2F2F</field>
+    </record>
+    <record id="Color_0068" model="dog.color">
+      <field name="name">Black coral </field>
+      <field name="hex_value">#54626F</field>
+    </record>
+    <record id="Color_0069" model="dog.color">
+      <field name="name">Black olive </field>
+      <field name="hex_value">#3B3C36</field>
+    </record>
+    <record id="Color_0070" model="dog.color">
+      <field name="name">Black Shadows </field>
+      <field name="hex_value">#BFAFB2</field>
+    </record>
+    <record id="Color_0071" model="dog.color">
+      <field name="name">Blanched almond </field>
+      <field name="hex_value">#FFEBCD</field>
+    </record>
+    <record id="Color_0072" model="dog.color">
+      <field name="name">Blast-off bronze </field>
+      <field name="hex_value">#A57164</field>
+    </record>
+    <record id="Color_0073" model="dog.color">
+      <field name="name">Bleu de France </field>
+      <field name="hex_value">#318CE7</field>
+    </record>
+    <record id="Color_0074" model="dog.color">
+      <field name="name">Blizzard blue </field>
+      <field name="hex_value">#ACE5EE</field>
+    </record>
+    <record id="Color_0075" model="dog.color">
+      <field name="name">Blond </field>
+      <field name="hex_value">#FAF0BE</field>
+    </record>
+    <record id="Color_0076" model="dog.color">
+      <field name="name">Blood red </field>
+      <field name="hex_value">#660000</field>
+    </record>
+    <record id="Color_0077" model="dog.color">
+      <field name="name">Blue </field>
+      <field name="hex_value">#0000FF</field>
+    </record>
+    <record id="Color_0078" model="dog.color">
+      <field name="name">Blue (Crayola) </field>
+      <field name="hex_value">#1F75FE</field>
+    </record>
+    <record id="Color_0079" model="dog.color">
+      <field name="name">Blue (Munsell) </field>
+      <field name="hex_value">#0093AF</field>
+    </record>
+    <record id="Color_0080" model="dog.color">
+      <field name="name">Blue (NCS) </field>
+      <field name="hex_value">#0087BD</field>
+    </record>
+    <record id="Color_0081" model="dog.color">
+      <field name="name">Blue (Pantone) </field>
+      <field name="hex_value">#0018A8</field>
+    </record>
+    <record id="Color_0082" model="dog.color">
+      <field name="name">Blue (pigment) </field>
+      <field name="hex_value">#333399</field>
+    </record>
+    <record id="Color_0083" model="dog.color">
+      <field name="name">Blue (RYB) </field>
+      <field name="hex_value">#0247FE</field>
+    </record>
+    <record id="Color_0084" model="dog.color">
+      <field name="name">Blue bell </field>
+      <field name="hex_value">#A2A2D0</field>
+    </record>
+    <record id="Color_0085" model="dog.color">
+      <field name="name">Blue jeans </field>
+      <field name="hex_value">#5DADEC</field>
+    </record>
+    <record id="Color_0086" model="dog.color">
+      <field name="name">Blue sapphire </field>
+      <field name="hex_value">#126180</field>
+    </record>
+    <record id="Color_0087" model="dog.color">
+      <field name="name">Blue yonder </field>
+      <field name="hex_value">#5072A7</field>
+    </record>
+    <record id="Color_0088" model="dog.color">
+      <field name="name">Blue-gray </field>
+      <field name="hex_value">#6699CC</field>
+    </record>
+    <record id="Color_0089" model="dog.color">
+      <field name="name">Blue-green </field>
+      <field name="hex_value">#0D98BA</field>
+    </record>
+    <record id="Color_0090" model="dog.color">
+      <field name="name">Blue-green (color wheel) </field>
+      <field name="hex_value">#064E40</field>
+    </record>
+    <record id="Color_0091" model="dog.color">
+      <field name="name">Blue-violet </field>
+      <field name="hex_value">#8A2BE2</field>
+    </record>
+    <record id="Color_0092" model="dog.color">
+      <field name="name">Blue-violet (color wheel) </field>
+      <field name="hex_value">#4D1A7F</field>
+    </record>
+    <record id="Color_0093" model="dog.color">
+      <field name="name">Blue-violet (Crayola) </field>
+      <field name="hex_value">#7366BD</field>
+    </record>
+    <record id="Color_0094" model="dog.color">
+      <field name="name">Bluetiful </field>
+      <field name="hex_value">#3C69E7</field>
+    </record>
+    <record id="Color_0095" model="dog.color">
+      <field name="name">Blush </field>
+      <field name="hex_value">#DE5D83</field>
+    </record>
+    <record id="Color_0096" model="dog.color">
+      <field name="name">Bole </field>
+      <field name="hex_value">#79443B</field>
+    </record>
+    <record id="Color_0097" model="dog.color">
+      <field name="name">Bone </field>
+      <field name="hex_value">#E3DAC9</field>
+    </record>
+    <record id="Color_0098" model="dog.color">
+      <field name="name">Bottle green </field>
+      <field name="hex_value">#006A4E</field>
+    </record>
+    <record id="Color_0099" model="dog.color">
+      <field name="name">Brandy </field>
+      <field name="hex_value">#87413F</field>
+    </record>
+    <record id="Color_0100" model="dog.color">
+      <field name="name">Brick red </field>
+      <field name="hex_value">#CB4154</field>
+    </record>
+    <record id="Color_0101" model="dog.color">
+      <field name="name">Bright green </field>
+      <field name="hex_value">#66FF00</field>
+    </record>
+    <record id="Color_0102" model="dog.color">
+      <field name="name">Bright lilac </field>
+      <field name="hex_value">#D891EF</field>
+    </record>
+    <record id="Color_0103" model="dog.color">
+      <field name="name">Bright maroon </field>
+      <field name="hex_value">#C32148</field>
+    </record>
+    <record id="Color_0104" model="dog.color">
+      <field name="name">Bright navy blue </field>
+      <field name="hex_value">#1974D2</field>
+    </record>
+    <record id="Color_0105" model="dog.color">
+      <field name="name">Bright yellow (Crayola) </field>
+      <field name="hex_value">#FFAA1D</field>
+    </record>
+    <record id="Color_0106" model="dog.color">
+      <field name="name">Brilliant rose </field>
+      <field name="hex_value">#FF55A3</field>
+    </record>
+    <record id="Color_0107" model="dog.color">
+      <field name="name">Brink pink </field>
+      <field name="hex_value">#FB607F</field>
+    </record>
+    <record id="Color_0108" model="dog.color">
+      <field name="name">British racing green </field>
+      <field name="hex_value">#004225</field>
+    </record>
+    <record id="Color_0109" model="dog.color">
+      <field name="name">Bronze </field>
+      <field name="hex_value">#CD7F32</field>
+    </record>
+    <record id="Color_0110" model="dog.color">
+      <field name="name">Brown </field>
+      <field name="hex_value">#88540B</field>
+    </record>
+    <record id="Color_0111" model="dog.color">
+      <field name="name">Brown sugar </field>
+      <field name="hex_value">#AF6E4D</field>
+    </record>
+    <record id="Color_0112" model="dog.color">
+      <field name="name">Brunswick green </field>
+      <field name="hex_value">#1B4D3E</field>
+    </record>
+    <record id="Color_0113" model="dog.color">
+      <field name="name">Bud green </field>
+      <field name="hex_value">#7BB661</field>
+    </record>
+    <record id="Color_0114" model="dog.color">
+      <field name="name">Buff </field>
+      <field name="hex_value">#FFC680</field>
+    </record>
+    <record id="Color_0115" model="dog.color">
+      <field name="name">Burgundy </field>
+      <field name="hex_value">#800020</field>
+    </record>
+    <record id="Color_0116" model="dog.color">
+      <field name="name">Burlywood </field>
+      <field name="hex_value">#DEB887</field>
+    </record>
+    <record id="Color_0117" model="dog.color">
+      <field name="name">Burnished brown </field>
+      <field name="hex_value">#A17A74</field>
+    </record>
+    <record id="Color_0118" model="dog.color">
+      <field name="name">Burnt orange </field>
+      <field name="hex_value">#CC5500</field>
+    </record>
+    <record id="Color_0119" model="dog.color">
+      <field name="name">Burnt sienna </field>
+      <field name="hex_value">#E97451</field>
+    </record>
+    <record id="Color_0120" model="dog.color">
+      <field name="name">Burnt umber </field>
+      <field name="hex_value">#8A3324</field>
+    </record>
+    <record id="Color_0121" model="dog.color">
+      <field name="name">Byzantine </field>
+      <field name="hex_value">#BD33A4</field>
+    </record>
+    <record id="Color_0122" model="dog.color">
+      <field name="name">Byzantium </field>
+      <field name="hex_value">#702963</field>
+    </record>
+    <record id="Color_0123" model="dog.color">
+      <field name="name">Cadet </field>
+      <field name="hex_value">#536872</field>
+    </record>
+    <record id="Color_0124" model="dog.color">
+      <field name="name">Cadet blue </field>
+      <field name="hex_value">#5F9EA0</field>
+    </record>
+    <record id="Color_0125" model="dog.color">
+      <field name="name">Cadet blue (Crayola) </field>
+      <field name="hex_value">#A9B2C3</field>
+    </record>
+    <record id="Color_0126" model="dog.color">
+      <field name="name">Cadet grey </field>
+      <field name="hex_value">#91A3B0</field>
+    </record>
+    <record id="Color_0127" model="dog.color">
+      <field name="name">Cadmium green </field>
+      <field name="hex_value">#006B3C</field>
+    </record>
+    <record id="Color_0128" model="dog.color">
+      <field name="name">Cadmium orange </field>
+      <field name="hex_value">#ED872D</field>
+    </record>
+    <record id="Color_0129" model="dog.color">
+      <field name="name">Cadmium red </field>
+      <field name="hex_value">#E30022</field>
+    </record>
+    <record id="Color_0130" model="dog.color">
+      <field name="name">Cadmium yellow </field>
+      <field name="hex_value">#FFF600</field>
+    </record>
+    <record id="Color_0131" model="dog.color">
+      <field name="name">Café au lait </field>
+      <field name="hex_value">#A67B5B</field>
+    </record>
+    <record id="Color_0132" model="dog.color">
+      <field name="name">Café noir </field>
+      <field name="hex_value">#4B3621</field>
+    </record>
+    <record id="Color_0133" model="dog.color">
+      <field name="name">Cambridge blue </field>
+      <field name="hex_value">#A3C1AD</field>
+    </record>
+    <record id="Color_0134" model="dog.color">
+      <field name="name">Camel </field>
+      <field name="hex_value">#C19A6B</field>
+    </record>
+    <record id="Color_0135" model="dog.color">
+      <field name="name">Cameo pink </field>
+      <field name="hex_value">#EFBBCC</field>
+    </record>
+    <record id="Color_0136" model="dog.color">
+      <field name="name">Canary </field>
+      <field name="hex_value">#FFFF99</field>
+    </record>
+    <record id="Color_0137" model="dog.color">
+      <field name="name">Canary yellow </field>
+      <field name="hex_value">#FFEF00</field>
+    </record>
+    <record id="Color_0138" model="dog.color">
+      <field name="name">Candy apple red </field>
+      <field name="hex_value">#FF0800</field>
+    </record>
+    <record id="Color_0139" model="dog.color">
+      <field name="name">Candy pink </field>
+      <field name="hex_value">#E4717A</field>
+    </record>
+    <record id="Color_0140" model="dog.color">
+      <field name="name">Capri </field>
+      <field name="hex_value">#00BFFF</field>
+    </record>
+    <record id="Color_0141" model="dog.color">
+      <field name="name">Caput mortuum </field>
+      <field name="hex_value">#592720</field>
+    </record>
+    <record id="Color_0142" model="dog.color">
+      <field name="name">Cardinal </field>
+      <field name="hex_value">#C41E3A</field>
+    </record>
+    <record id="Color_0143" model="dog.color">
+      <field name="name">Caribbean green </field>
+      <field name="hex_value">#00CC99</field>
+    </record>
+    <record id="Color_0144" model="dog.color">
+      <field name="name">Carmine </field>
+      <field name="hex_value">#960018</field>
+    </record>
+    <record id="Color_0145" model="dog.color">
+      <field name="name">Carmine (MP) </field>
+      <field name="hex_value">#D70040</field>
+    </record>
+    <record id="Color_0146" model="dog.color">
+      <field name="name">Carnation pink </field>
+      <field name="hex_value">#FFA6C9</field>
+    </record>
+    <record id="Color_0147" model="dog.color">
+      <field name="name">Carnelian </field>
+      <field name="hex_value">#B31B1B</field>
+    </record>
+    <record id="Color_0148" model="dog.color">
+      <field name="name">Carolina blue </field>
+      <field name="hex_value">#56A0D3</field>
+    </record>
+    <record id="Color_0149" model="dog.color">
+      <field name="name">Carrot orange </field>
+      <field name="hex_value">#ED9121</field>
+    </record>
+    <record id="Color_0150" model="dog.color">
+      <field name="name">Castleton green </field>
+      <field name="hex_value">#00563F</field>
+    </record>
+    <record id="Color_0151" model="dog.color">
+      <field name="name">Catawba </field>
+      <field name="hex_value">#703642</field>
+    </record>
+    <record id="Color_0152" model="dog.color">
+      <field name="name">Cedar Chest </field>
+      <field name="hex_value">#C95A49</field>
+    </record>
+    <record id="Color_0153" model="dog.color">
+      <field name="name">Celadon </field>
+      <field name="hex_value">#ACE1AF</field>
+    </record>
+    <record id="Color_0154" model="dog.color">
+      <field name="name">Celadon blue </field>
+      <field name="hex_value">#007BA7</field>
+    </record>
+    <record id="Color_0155" model="dog.color">
+      <field name="name">Celadon green </field>
+      <field name="hex_value">#2F847C</field>
+    </record>
+    <record id="Color_0156" model="dog.color">
+      <field name="name">Celeste </field>
+      <field name="hex_value">#B2FFFF</field>
+    </record>
+    <record id="Color_0157" model="dog.color">
+      <field name="name">Celtic blue </field>
+      <field name="hex_value">#246BCE</field>
+    </record>
+    <record id="Color_0158" model="dog.color">
+      <field name="name">Cerise </field>
+      <field name="hex_value">#DE3163</field>
+    </record>
+    <record id="Color_0159" model="dog.color">
+      <field name="name">Cerulean </field>
+      <field name="hex_value">#007BA7</field>
+    </record>
+    <record id="Color_0160" model="dog.color">
+      <field name="name">Cerulean (Crayola) </field>
+      <field name="hex_value">#1DACD6</field>
+    </record>
+    <record id="Color_0161" model="dog.color">
+      <field name="name">Cerulean blue </field>
+      <field name="hex_value">#2A52BE</field>
+    </record>
+    <record id="Color_0162" model="dog.color">
+      <field name="name">Cerulean frost </field>
+      <field name="hex_value">#6D9BC3</field>
+    </record>
+    <record id="Color_0163" model="dog.color">
+      <field name="name">CG blue </field>
+      <field name="hex_value">#007AA5</field>
+    </record>
+    <record id="Color_0164" model="dog.color">
+      <field name="name">CG red </field>
+      <field name="hex_value">#E03C31</field>
+    </record>
+    <record id="Color_0165" model="dog.color">
+      <field name="name">Champagne </field>
+      <field name="hex_value">#F7E7CE</field>
+    </record>
+    <record id="Color_0166" model="dog.color">
+      <field name="name">Champagne pink </field>
+      <field name="hex_value">#F1DDCF</field>
+    </record>
+    <record id="Color_0167" model="dog.color">
+      <field name="name">Charcoal </field>
+      <field name="hex_value">#36454F</field>
+    </record>
+    <record id="Color_0168" model="dog.color">
+      <field name="name">Charleston green </field>
+      <field name="hex_value">#232B2B</field>
+    </record>
+    <record id="Color_0169" model="dog.color">
+      <field name="name">Charm pink </field>
+      <field name="hex_value">#E68FAC</field>
+    </record>
+    <record id="Color_0170" model="dog.color">
+      <field name="name">Chartreuse (traditional) </field>
+      <field name="hex_value">#DFFF00</field>
+    </record>
+    <record id="Color_0171" model="dog.color">
+      <field name="name">Chartreuse (web) </field>
+      <field name="hex_value">#7FFF00</field>
+    </record>
+    <record id="Color_0172" model="dog.color">
+      <field name="name">Cherry blossom pink </field>
+      <field name="hex_value">#FFB7C5</field>
+    </record>
+    <record id="Color_0173" model="dog.color">
+      <field name="name">Chestnut </field>
+      <field name="hex_value">#954535</field>
+    </record>
+    <record id="Color_0174" model="dog.color">
+      <field name="name">Chili red </field>
+      <field name="hex_value">#E23D28</field>
+    </record>
+    <record id="Color_0175" model="dog.color">
+      <field name="name">China pink </field>
+      <field name="hex_value">#DE6FA1</field>
+    </record>
+    <record id="Color_0176" model="dog.color">
+      <field name="name">China rose </field>
+      <field name="hex_value">#A8516E</field>
+    </record>
+    <record id="Color_0177" model="dog.color">
+      <field name="name">Chinese red </field>
+      <field name="hex_value">#AA381E</field>
+    </record>
+    <record id="Color_0178" model="dog.color">
+      <field name="name">Chinese violet </field>
+      <field name="hex_value">#856088</field>
+    </record>
+    <record id="Color_0179" model="dog.color">
+      <field name="name">Chinese yellow </field>
+      <field name="hex_value">#FFB200</field>
+    </record>
+    <record id="Color_0180" model="dog.color">
+      <field name="name">Chocolate (traditional) </field>
+      <field name="hex_value">#7B3F00</field>
+    </record>
+    <record id="Color_0181" model="dog.color">
+      <field name="name">Chocolate (web) </field>
+      <field name="hex_value">#D2691E</field>
+    </record>
+    <record id="Color_0182" model="dog.color">
+      <field name="name">Chocolate Cosmos </field>
+      <field name="hex_value">#58111A</field>
+    </record>
+    <record id="Color_0183" model="dog.color">
+      <field name="name">Chrome yellow </field>
+      <field name="hex_value">#FFA700</field>
+    </record>
+    <record id="Color_0184" model="dog.color">
+      <field name="name">Cinereous </field>
+      <field name="hex_value">#98817B</field>
+    </record>
+    <record id="Color_0185" model="dog.color">
+      <field name="name">Cinnabar </field>
+      <field name="hex_value">#E34234</field>
+    </record>
+    <record id="Color_0186" model="dog.color">
+      <field name="name">Cinnamon Satin </field>
+      <field name="hex_value">#CD607E</field>
+    </record>
+    <record id="Color_0187" model="dog.color">
+      <field name="name">Citrine </field>
+      <field name="hex_value">#E4D00A</field>
+    </record>
+    <record id="Color_0188" model="dog.color">
+      <field name="name">Citron </field>
+      <field name="hex_value">#9FA91F</field>
+    </record>
+    <record id="Color_0189" model="dog.color">
+      <field name="name">Claret </field>
+      <field name="hex_value">#7F1734</field>
+    </record>
+    <record id="Color_0190" model="dog.color">
+      <field name="name">Cobalt blue </field>
+      <field name="hex_value">#0047AB</field>
+    </record>
+    <record id="Color_0191" model="dog.color">
+      <field name="name">Cocoa brown </field>
+      <field name="hex_value">#D2691E</field>
+    </record>
+    <record id="Color_0192" model="dog.color">
+      <field name="name">Coffee </field>
+      <field name="hex_value">#6F4E37</field>
+    </record>
+    <record id="Color_0193" model="dog.color">
+      <field name="name">Columbia Blue </field>
+      <field name="hex_value">#B9D9EB</field>
+    </record>
+    <record id="Color_0194" model="dog.color">
+      <field name="name">Congo pink </field>
+      <field name="hex_value">#F88379</field>
+    </record>
+    <record id="Color_0195" model="dog.color">
+      <field name="name">Cool grey </field>
+      <field name="hex_value">#8C92AC</field>
+    </record>
+    <record id="Color_0196" model="dog.color">
+      <field name="name">Copper </field>
+      <field name="hex_value">#B87333</field>
+    </record>
+    <record id="Color_0197" model="dog.color">
+      <field name="name">Copper (Crayola) </field>
+      <field name="hex_value">#DA8A67</field>
+    </record>
+    <record id="Color_0198" model="dog.color">
+      <field name="name">Copper penny </field>
+      <field name="hex_value">#AD6F69</field>
+    </record>
+    <record id="Color_0199" model="dog.color">
+      <field name="name">Copper red </field>
+      <field name="hex_value">#CB6D51</field>
+    </record>
+    <record id="Color_0200" model="dog.color">
+      <field name="name">Copper rose </field>
+      <field name="hex_value">#996666</field>
+    </record>
+    <record id="Color_0201" model="dog.color">
+      <field name="name">Coquelicot </field>
+      <field name="hex_value">#FF3800</field>
+    </record>
+    <record id="Color_0202" model="dog.color">
+      <field name="name">Coral </field>
+      <field name="hex_value">#FF7F50</field>
+    </record>
+    <record id="Color_0203" model="dog.color">
+      <field name="name">Coral pink </field>
+      <field name="hex_value">#F88379</field>
+    </record>
+    <record id="Color_0204" model="dog.color">
+      <field name="name">Cordovan </field>
+      <field name="hex_value">#893F45</field>
+    </record>
+    <record id="Color_0205" model="dog.color">
+      <field name="name">Corn </field>
+      <field name="hex_value">#FBEC5D</field>
+    </record>
+    <record id="Color_0206" model="dog.color">
+      <field name="name">Cornell red </field>
+      <field name="hex_value">#B31B1B</field>
+    </record>
+    <record id="Color_0207" model="dog.color">
+      <field name="name">Cornflower blue </field>
+      <field name="hex_value">#6495ED</field>
+    </record>
+    <record id="Color_0208" model="dog.color">
+      <field name="name">Cornsilk </field>
+      <field name="hex_value">#FFF8DC</field>
+    </record>
+    <record id="Color_0209" model="dog.color">
+      <field name="name">Cosmic cobalt </field>
+      <field name="hex_value">#2E2D88</field>
+    </record>
+    <record id="Color_0210" model="dog.color">
+      <field name="name">Cosmic latte </field>
+      <field name="hex_value">#FFF8E7</field>
+    </record>
+    <record id="Color_0211" model="dog.color">
+      <field name="name">Cotton candy </field>
+      <field name="hex_value">#FFBCD9</field>
+    </record>
+    <record id="Color_0212" model="dog.color">
+      <field name="name">Coyote brown </field>
+      <field name="hex_value">#81613C</field>
+    </record>
+    <record id="Color_0213" model="dog.color">
+      <field name="name">Cream </field>
+      <field name="hex_value">#FFFDD0</field>
+    </record>
+    <record id="Color_0214" model="dog.color">
+      <field name="name">Crimson </field>
+      <field name="hex_value">#DC143C</field>
+    </record>
+    <record id="Color_0215" model="dog.color">
+      <field name="name">Crimson (UA) </field>
+      <field name="hex_value">#9E1B32</field>
+    </record>
+    <record id="Color_0216" model="dog.color">
+      <field name="name">Crystal </field>
+      <field name="hex_value">#A7D8DE</field>
+    </record>
+    <record id="Color_0217" model="dog.color">
+      <field name="name">Cultured </field>
+      <field name="hex_value">#F5F5F5</field>
+    </record>
+    <record id="Color_0218" model="dog.color">
+      <field name="name">Cyan </field>
+      <field name="hex_value">#00FFFF</field>
+    </record>
+    <record id="Color_0219" model="dog.color">
+      <field name="name">Cyan (process) </field>
+      <field name="hex_value">#00B7EB</field>
+    </record>
+    <record id="Color_0220" model="dog.color">
+      <field name="name">Cyber grape </field>
+      <field name="hex_value">#58427C</field>
+    </record>
+    <record id="Color_0221" model="dog.color">
+      <field name="name">Cyber yellow </field>
+      <field name="hex_value">#FFD300</field>
+    </record>
+    <record id="Color_0222" model="dog.color">
+      <field name="name">Cyclamen </field>
+      <field name="hex_value">#F56FA1</field>
+    </record>
+    <record id="Color_0223" model="dog.color">
+      <field name="name">Dark blue-gray </field>
+      <field name="hex_value">#666699</field>
+    </record>
+    <record id="Color_0224" model="dog.color">
+      <field name="name">Dark brown </field>
+      <field name="hex_value">#654321</field>
+    </record>
+    <record id="Color_0225" model="dog.color">
+      <field name="name">Dark byzantium </field>
+      <field name="hex_value">#5D3954</field>
+    </record>
+    <record id="Color_0226" model="dog.color">
+      <field name="name">Dark cornflower blue </field>
+      <field name="hex_value">#26428B</field>
+    </record>
+    <record id="Color_0227" model="dog.color">
+      <field name="name">Dark cyan </field>
+      <field name="hex_value">#008B8B</field>
+    </record>
+    <record id="Color_0228" model="dog.color">
+      <field name="name">Dark electric blue </field>
+      <field name="hex_value">#536878</field>
+    </record>
+    <record id="Color_0229" model="dog.color">
+      <field name="name">Dark goldenrod </field>
+      <field name="hex_value">#B8860B</field>
+    </record>
+    <record id="Color_0230" model="dog.color">
+      <field name="name">Dark green </field>
+      <field name="hex_value">#013220</field>
+    </record>
+    <record id="Color_0231" model="dog.color">
+      <field name="name">Dark green (X11) </field>
+      <field name="hex_value">#006400</field>
+    </record>
+    <record id="Color_0232" model="dog.color">
+      <field name="name">Dark jungle green </field>
+      <field name="hex_value">#1A2421</field>
+    </record>
+    <record id="Color_0233" model="dog.color">
+      <field name="name">Dark khaki </field>
+      <field name="hex_value">#BDB76B</field>
+    </record>
+    <record id="Color_0234" model="dog.color">
+      <field name="name">Dark lava </field>
+      <field name="hex_value">#483C32</field>
+    </record>
+    <record id="Color_0235" model="dog.color">
+      <field name="name">Dark liver </field>
+      <field name="hex_value">#534B4F</field>
+    </record>
+    <record id="Color_0236" model="dog.color">
+      <field name="name">Dark liver (horses) </field>
+      <field name="hex_value">#543D37</field>
+    </record>
+    <record id="Color_0237" model="dog.color">
+      <field name="name">Dark magenta </field>
+      <field name="hex_value">#8B008B</field>
+    </record>
+    <record id="Color_0238" model="dog.color">
+      <field name="name">Dark moss green </field>
+      <field name="hex_value">#4A5D23</field>
+    </record>
+    <record id="Color_0239" model="dog.color">
+      <field name="name">Dark olive green </field>
+      <field name="hex_value">#556B2F</field>
+    </record>
+    <record id="Color_0240" model="dog.color">
+      <field name="name">Dark orange </field>
+      <field name="hex_value">#FF8C00</field>
+    </record>
+    <record id="Color_0241" model="dog.color">
+      <field name="name">Dark orchid </field>
+      <field name="hex_value">#9932CC</field>
+    </record>
+    <record id="Color_0242" model="dog.color">
+      <field name="name">Dark pastel green </field>
+      <field name="hex_value">#03C03C</field>
+    </record>
+    <record id="Color_0243" model="dog.color">
+      <field name="name">Dark purple </field>
+      <field name="hex_value">#301934</field>
+    </record>
+    <record id="Color_0244" model="dog.color">
+      <field name="name">Dark red </field>
+      <field name="hex_value">#8B0000</field>
+    </record>
+    <record id="Color_0245" model="dog.color">
+      <field name="name">Dark salmon </field>
+      <field name="hex_value">#E9967A</field>
+    </record>
+    <record id="Color_0246" model="dog.color">
+      <field name="name">Dark sea green </field>
+      <field name="hex_value">#8FBC8F</field>
+    </record>
+    <record id="Color_0247" model="dog.color">
+      <field name="name">Dark sienna </field>
+      <field name="hex_value">#3C1414</field>
+    </record>
+    <record id="Color_0248" model="dog.color">
+      <field name="name">Dark sky blue </field>
+      <field name="hex_value">#8CBED6</field>
+    </record>
+    <record id="Color_0249" model="dog.color">
+      <field name="name">Dark slate blue </field>
+      <field name="hex_value">#483D8B</field>
+    </record>
+    <record id="Color_0250" model="dog.color">
+      <field name="name">Dark slate gray </field>
+      <field name="hex_value">#2F4F4F</field>
+    </record>
+    <record id="Color_0251" model="dog.color">
+      <field name="name">Dark spring green </field>
+      <field name="hex_value">#177245</field>
+    </record>
+    <record id="Color_0252" model="dog.color">
+      <field name="name">Dark turquoise </field>
+      <field name="hex_value">#00CED1</field>
+    </record>
+    <record id="Color_0253" model="dog.color">
+      <field name="name">Dark violet </field>
+      <field name="hex_value">#9400D3</field>
+    </record>
+    <record id="Color_0254" model="dog.color">
+      <field name="name">Dartmouth green </field>
+      <field name="hex_value">#00703C</field>
+    </record>
+    <record id="Color_0255" model="dog.color">
+      <field name="name">Davy's grey </field>
+      <field name="hex_value">#555555</field>
+    </record>
+    <record id="Color_0256" model="dog.color">
+      <field name="name">Deep cerise </field>
+      <field name="hex_value">#DA3287</field>
+    </record>
+    <record id="Color_0257" model="dog.color">
+      <field name="name">Deep champagne </field>
+      <field name="hex_value">#FAD6A5</field>
+    </record>
+    <record id="Color_0258" model="dog.color">
+      <field name="name">Deep chestnut </field>
+      <field name="hex_value">#B94E48</field>
+    </record>
+    <record id="Color_0259" model="dog.color">
+      <field name="name">Deep jungle green </field>
+      <field name="hex_value">#004B49</field>
+    </record>
+    <record id="Color_0260" model="dog.color">
+      <field name="name">Deep pink </field>
+      <field name="hex_value">#FF1493</field>
+    </record>
+    <record id="Color_0261" model="dog.color">
+      <field name="name">Deep saffron </field>
+      <field name="hex_value">#FF9933</field>
+    </record>
+    <record id="Color_0262" model="dog.color">
+      <field name="name">Deep sky blue </field>
+      <field name="hex_value">#00BFFF</field>
+    </record>
+    <record id="Color_0263" model="dog.color">
+      <field name="name">Deep Space Sparkle </field>
+      <field name="hex_value">#4A646C</field>
+    </record>
+    <record id="Color_0264" model="dog.color">
+      <field name="name">Deep taupe </field>
+      <field name="hex_value">#7E5E60</field>
+    </record>
+    <record id="Color_0265" model="dog.color">
+      <field name="name">Denim </field>
+      <field name="hex_value">#1560BD</field>
+    </record>
+    <record id="Color_0266" model="dog.color">
+      <field name="name">Denim blue </field>
+      <field name="hex_value">#2243B6</field>
+    </record>
+    <record id="Color_0267" model="dog.color">
+      <field name="name">Desert </field>
+      <field name="hex_value">#C19A6B</field>
+    </record>
+    <record id="Color_0268" model="dog.color">
+      <field name="name">Desert sand </field>
+      <field name="hex_value">#EDC9AF</field>
+    </record>
+    <record id="Color_0269" model="dog.color">
+      <field name="name">Dim gray </field>
+      <field name="hex_value">#696969</field>
+    </record>
+    <record id="Color_0270" model="dog.color">
+      <field name="name">Dodger blue </field>
+      <field name="hex_value">#1E90FF</field>
+    </record>
+    <record id="Color_0271" model="dog.color">
+      <field name="name">Dogwood rose </field>
+      <field name="hex_value">#D71868</field>
+    </record>
+    <record id="Color_0272" model="dog.color">
+      <field name="name">Drab </field>
+      <field name="hex_value">#967117</field>
+    </record>
+    <record id="Color_0273" model="dog.color">
+      <field name="name">Duke blue </field>
+      <field name="hex_value">#00009C</field>
+    </record>
+    <record id="Color_0274" model="dog.color">
+      <field name="name">Dutch white </field>
+      <field name="hex_value">#EFDFBB</field>
+    </record>
+    <record id="Color_0275" model="dog.color">
+      <field name="name">Earth yellow </field>
+      <field name="hex_value">#E1A95F</field>
+    </record>
+    <record id="Color_0276" model="dog.color">
+      <field name="name">Ebony </field>
+      <field name="hex_value">#555D50</field>
+    </record>
+    <record id="Color_0277" model="dog.color">
+      <field name="name">Ecru </field>
+      <field name="hex_value">#C2B280</field>
+    </record>
+    <record id="Color_0278" model="dog.color">
+      <field name="name">Eerie black </field>
+      <field name="hex_value">#1B1B1B</field>
+    </record>
+    <record id="Color_0279" model="dog.color">
+      <field name="name">Eggplant </field>
+      <field name="hex_value">#614051</field>
+    </record>
+    <record id="Color_0280" model="dog.color">
+      <field name="name">Eggshell </field>
+      <field name="hex_value">#F0EAD6</field>
+    </record>
+    <record id="Color_0281" model="dog.color">
+      <field name="name">Egyptian blue </field>
+      <field name="hex_value">#1034A6</field>
+    </record>
+    <record id="Color_0282" model="dog.color">
+      <field name="name">Eigengrau </field>
+      <field name="hex_value">#16161D</field>
+    </record>
+    <record id="Color_0283" model="dog.color">
+      <field name="name">Electric blue </field>
+      <field name="hex_value">#7DF9FF</field>
+    </record>
+    <record id="Color_0284" model="dog.color">
+      <field name="name">Electric green </field>
+      <field name="hex_value">#00FF00</field>
+    </record>
+    <record id="Color_0285" model="dog.color">
+      <field name="name">Electric indigo </field>
+      <field name="hex_value">#6F00FF</field>
+    </record>
+    <record id="Color_0286" model="dog.color">
+      <field name="name">Electric lime </field>
+      <field name="hex_value">#CCFF00</field>
+    </record>
+    <record id="Color_0287" model="dog.color">
+      <field name="name">Electric purple </field>
+      <field name="hex_value">#BF00FF</field>
+    </record>
+    <record id="Color_0288" model="dog.color">
+      <field name="name">Electric violet </field>
+      <field name="hex_value">#8F00FF</field>
+    </record>
+    <record id="Color_0289" model="dog.color">
+      <field name="name">Emerald </field>
+      <field name="hex_value">#50C878</field>
+    </record>
+    <record id="Color_0290" model="dog.color">
+      <field name="name">Eminence </field>
+      <field name="hex_value">#6C3082</field>
+    </record>
+    <record id="Color_0291" model="dog.color">
+      <field name="name">English green </field>
+      <field name="hex_value">#1B4D3E</field>
+    </record>
+    <record id="Color_0292" model="dog.color">
+      <field name="name">English lavender </field>
+      <field name="hex_value">#B48395</field>
+    </record>
+    <record id="Color_0293" model="dog.color">
+      <field name="name">English red </field>
+      <field name="hex_value">#AB4B52</field>
+    </record>
+    <record id="Color_0294" model="dog.color">
+      <field name="name">English vermillion </field>
+      <field name="hex_value">#CC474B</field>
+    </record>
+    <record id="Color_0295" model="dog.color">
+      <field name="name">English violet </field>
+      <field name="hex_value">#563C5C</field>
+    </record>
+    <record id="Color_0296" model="dog.color">
+      <field name="name">Erin </field>
+      <field name="hex_value">#00FF40</field>
+    </record>
+    <record id="Color_0297" model="dog.color">
+      <field name="name">Eton blue </field>
+      <field name="hex_value">#96C8A2</field>
+    </record>
+    <record id="Color_0298" model="dog.color">
+      <field name="name">Fallow </field>
+      <field name="hex_value">#C19A6B</field>
+    </record>
+    <record id="Color_0299" model="dog.color">
+      <field name="name">Falu red </field>
+      <field name="hex_value">#801818</field>
+    </record>
+    <record id="Color_0300" model="dog.color">
+      <field name="name">Fandango </field>
+      <field name="hex_value">#B53389</field>
+    </record>
+    <record id="Color_0301" model="dog.color">
+      <field name="name">Fandango pink </field>
+      <field name="hex_value">#DE5285</field>
+    </record>
+    <record id="Color_0302" model="dog.color">
+      <field name="name">Fashion fuchsia </field>
+      <field name="hex_value">#F400A1</field>
+    </record>
+    <record id="Color_0303" model="dog.color">
+      <field name="name">Fawn </field>
+      <field name="hex_value">#E5AA70</field>
+    </record>
+    <record id="Color_0304" model="dog.color">
+      <field name="name">Feldgrau </field>
+      <field name="hex_value">#4D5D53</field>
+    </record>
+    <record id="Color_0305" model="dog.color">
+      <field name="name">Fern green </field>
+      <field name="hex_value">#4F7942</field>
+    </record>
+    <record id="Color_0306" model="dog.color">
+      <field name="name">Field drab </field>
+      <field name="hex_value">#6C541E</field>
+    </record>
+    <record id="Color_0307" model="dog.color">
+      <field name="name">Fiery rose </field>
+      <field name="hex_value">#FF5470</field>
+    </record>
+    <record id="Color_0308" model="dog.color">
+      <field name="name">Fire engine red </field>
+      <field name="hex_value">#CE2029</field>
+    </record>
+    <record id="Color_0309" model="dog.color">
+      <field name="name">Fire opal </field>
+      <field name="hex_value">#E95C4B</field>
+    </record>
+    <record id="Color_0310" model="dog.color">
+      <field name="name">Firebrick </field>
+      <field name="hex_value">#B22222</field>
+    </record>
+    <record id="Color_0311" model="dog.color">
+      <field name="name">Flame </field>
+      <field name="hex_value">#E25822</field>
+    </record>
+    <record id="Color_0312" model="dog.color">
+      <field name="name">Flax </field>
+      <field name="hex_value">#EEDC82</field>
+    </record>
+    <record id="Color_0313" model="dog.color">
+      <field name="name">Flirt </field>
+      <field name="hex_value">#A2006D</field>
+    </record>
+    <record id="Color_0314" model="dog.color">
+      <field name="name">Floral white </field>
+      <field name="hex_value">#FFFAF0</field>
+    </record>
+    <record id="Color_0315" model="dog.color">
+      <field name="name">Fluorescent blue </field>
+      <field name="hex_value">#15F4EE</field>
+    </record>
+    <record id="Color_0316" model="dog.color">
+      <field name="name">Forest green (Crayola) </field>
+      <field name="hex_value">#5FA777</field>
+    </record>
+    <record id="Color_0317" model="dog.color">
+      <field name="name">Forest green (traditional) </field>
+      <field name="hex_value">#014421</field>
+    </record>
+    <record id="Color_0318" model="dog.color">
+      <field name="name">Forest green (web) </field>
+      <field name="hex_value">#228B22</field>
+    </record>
+    <record id="Color_0319" model="dog.color">
+      <field name="name">French beige </field>
+      <field name="hex_value">#A67B5B</field>
+    </record>
+    <record id="Color_0320" model="dog.color">
+      <field name="name">French bistre </field>
+      <field name="hex_value">#856D4D</field>
+    </record>
+    <record id="Color_0321" model="dog.color">
+      <field name="name">French blue </field>
+      <field name="hex_value">#0072BB</field>
+    </record>
+    <record id="Color_0322" model="dog.color">
+      <field name="name">French fuchsia </field>
+      <field name="hex_value">#FD3F92</field>
+    </record>
+    <record id="Color_0323" model="dog.color">
+      <field name="name">French lilac </field>
+      <field name="hex_value">#86608E</field>
+    </record>
+    <record id="Color_0324" model="dog.color">
+      <field name="name">French lime </field>
+      <field name="hex_value">#9EFD38</field>
+    </record>
+    <record id="Color_0325" model="dog.color">
+      <field name="name">French mauve </field>
+      <field name="hex_value">#D473D4</field>
+    </record>
+    <record id="Color_0326" model="dog.color">
+      <field name="name">French pink </field>
+      <field name="hex_value">#FD6C9E</field>
+    </record>
+    <record id="Color_0327" model="dog.color">
+      <field name="name">French raspberry </field>
+      <field name="hex_value">#C72C48</field>
+    </record>
+    <record id="Color_0328" model="dog.color">
+      <field name="name">French rose </field>
+      <field name="hex_value">#F64A8A</field>
+    </record>
+    <record id="Color_0329" model="dog.color">
+      <field name="name">French sky blue </field>
+      <field name="hex_value">#77B5FE</field>
+    </record>
+    <record id="Color_0330" model="dog.color">
+      <field name="name">French violet </field>
+      <field name="hex_value">#8806CE</field>
+    </record>
+    <record id="Color_0331" model="dog.color">
+      <field name="name">Frostbite </field>
+      <field name="hex_value">#E936A7</field>
+    </record>
+    <record id="Color_0332" model="dog.color">
+      <field name="name">Fuchsia </field>
+      <field name="hex_value">#FF00FF</field>
+    </record>
+    <record id="Color_0333" model="dog.color">
+      <field name="name">Fuchsia (Crayola) </field>
+      <field name="hex_value">#C154C1</field>
+    </record>
+    <record id="Color_0334" model="dog.color">
+      <field name="name">Fuchsia purple </field>
+      <field name="hex_value">#CC397B</field>
+    </record>
+    <record id="Color_0335" model="dog.color">
+      <field name="name">Fuchsia rose </field>
+      <field name="hex_value">#C74375</field>
+    </record>
+    <record id="Color_0336" model="dog.color">
+      <field name="name">Fulvous </field>
+      <field name="hex_value">#E48400</field>
+    </record>
+    <record id="Color_0337" model="dog.color">
+      <field name="name">Fuzzy Wuzzy </field>
+      <field name="hex_value">#87421F</field>
+    </record>
+    <record id="Color_0338" model="dog.color">
+      <field name="name">Gainsboro </field>
+      <field name="hex_value">#DCDCDC</field>
+    </record>
+    <record id="Color_0339" model="dog.color">
+      <field name="name">Gamboge </field>
+      <field name="hex_value">#E49B0F</field>
+    </record>
+    <record id="Color_0340" model="dog.color">
+      <field name="name">Generic viridian </field>
+      <field name="hex_value">#007F66</field>
+    </record>
+    <record id="Color_0341" model="dog.color">
+      <field name="name">Ghost white </field>
+      <field name="hex_value">#F8F8FF</field>
+    </record>
+    <record id="Color_0342" model="dog.color">
+      <field name="name">Glaucous </field>
+      <field name="hex_value">#6082B6</field>
+    </record>
+    <record id="Color_0343" model="dog.color">
+      <field name="name">Glossy grape </field>
+      <field name="hex_value">#AB92B3</field>
+    </record>
+    <record id="Color_0344" model="dog.color">
+      <field name="name">GO green </field>
+      <field name="hex_value">#00AB66</field>
+    </record>
+    <record id="Color_0345" model="dog.color">
+      <field name="name">Gold </field>
+      <field name="hex_value">#A57C00</field>
+    </record>
+    <record id="Color_0346" model="dog.color">
+      <field name="name">Gold (Crayola) </field>
+      <field name="hex_value">#E6BE8A</field>
+    </record>
+    <record id="Color_0347" model="dog.color">
+      <field name="name">Gold (metallic) </field>
+      <field name="hex_value">#D4AF37</field>
+    </record>
+    <record id="Color_0348" model="dog.color">
+      <field name="name">Gold (web) (Golden) </field>
+      <field name="hex_value">#FFD700</field>
+    </record>
+    <record id="Color_0349" model="dog.color">
+      <field name="name">Gold Fusion </field>
+      <field name="hex_value">#85754E</field>
+    </record>
+    <record id="Color_0350" model="dog.color">
+      <field name="name">Golden brown </field>
+      <field name="hex_value">#996515</field>
+    </record>
+    <record id="Color_0351" model="dog.color">
+      <field name="name">Golden poppy </field>
+      <field name="hex_value">#FCC200</field>
+    </record>
+    <record id="Color_0352" model="dog.color">
+      <field name="name">Golden yellow </field>
+      <field name="hex_value">#FFDF00</field>
+    </record>
+    <record id="Color_0353" model="dog.color">
+      <field name="name">Goldenrod </field>
+      <field name="hex_value">#DAA520</field>
+    </record>
+    <record id="Color_0354" model="dog.color">
+      <field name="name">Granite gray </field>
+      <field name="hex_value">#676767</field>
+    </record>
+    <record id="Color_0355" model="dog.color">
+      <field name="name">Granny Smith apple </field>
+      <field name="hex_value">#A8E4A0</field>
+    </record>
+    <record id="Color_0356" model="dog.color">
+      <field name="name">Gray (web) </field>
+      <field name="hex_value">#808080</field>
+    </record>
+    <record id="Color_0357" model="dog.color">
+      <field name="name">Gray (X11 gray) </field>
+      <field name="hex_value">#BEBEBE</field>
+    </record>
+    <record id="Color_0358" model="dog.color">
+      <field name="name">Green </field>
+      <field name="hex_value">#00FF00</field>
+    </record>
+    <record id="Color_0359" model="dog.color">
+      <field name="name">Green (Crayola) </field>
+      <field name="hex_value">#1CAC78</field>
+    </record>
+    <record id="Color_0360" model="dog.color">
+      <field name="name">Green (Munsell) </field>
+      <field name="hex_value">#00A877</field>
+    </record>
+    <record id="Color_0361" model="dog.color">
+      <field name="name">Green (NCS) </field>
+      <field name="hex_value">#009F6B</field>
+    </record>
+    <record id="Color_0362" model="dog.color">
+      <field name="name">Green (Pantone) </field>
+      <field name="hex_value">#00AD43</field>
+    </record>
+    <record id="Color_0363" model="dog.color">
+      <field name="name">Green (pigment) </field>
+      <field name="hex_value">#00A550</field>
+    </record>
+    <record id="Color_0364" model="dog.color">
+      <field name="name">Green (RYB) </field>
+      <field name="hex_value">#66B032</field>
+    </record>
+    <record id="Color_0365" model="dog.color">
+      <field name="name">Green (web) </field>
+      <field name="hex_value">#008000</field>
+    </record>
+    <record id="Color_0366" model="dog.color">
+      <field name="name">Green Lizard </field>
+      <field name="hex_value">#A7F432</field>
+    </record>
+    <record id="Color_0367" model="dog.color">
+      <field name="name">Green Sheen </field>
+      <field name="hex_value">#6EAEA1</field>
+    </record>
+    <record id="Color_0368" model="dog.color">
+      <field name="name">Green-blue </field>
+      <field name="hex_value">#1164B4</field>
+    </record>
+    <record id="Color_0369" model="dog.color">
+      <field name="name">Green-blue (Crayola) </field>
+      <field name="hex_value">#2887C8</field>
+    </record>
+    <record id="Color_0370" model="dog.color">
+      <field name="name">Green-cyan </field>
+      <field name="hex_value">#009966</field>
+    </record>
+    <record id="Color_0371" model="dog.color">
+      <field name="name">Green-yellow </field>
+      <field name="hex_value">#ADFF2F</field>
+    </record>
+    <record id="Color_0372" model="dog.color">
+      <field name="name">Green-yellow (Crayola) </field>
+      <field name="hex_value">#F0E891</field>
+    </record>
+    <record id="Color_0373" model="dog.color">
+      <field name="name">Grullo </field>
+      <field name="hex_value">#A99A86</field>
+    </record>
+    <record id="Color_0374" model="dog.color">
+      <field name="name">Gunmetal </field>
+      <field name="hex_value">#2a3439</field>
+    </record>
+    <record id="Color_0375" model="dog.color">
+      <field name="name">Han blue </field>
+      <field name="hex_value">#446CCF</field>
+    </record>
+    <record id="Color_0376" model="dog.color">
+      <field name="name">Han purple </field>
+      <field name="hex_value">#5218FA</field>
+    </record>
+    <record id="Color_0377" model="dog.color">
+      <field name="name">Hansa yellow </field>
+      <field name="hex_value">#E9D66B</field>
+    </record>
+    <record id="Color_0378" model="dog.color">
+      <field name="name">Harlequin </field>
+      <field name="hex_value">#3FFF00</field>
+    </record>
+    <record id="Color_0379" model="dog.color">
+      <field name="name">Harvest gold </field>
+      <field name="hex_value">#DA9100</field>
+    </record>
+    <record id="Color_0380" model="dog.color">
+      <field name="name">Heat Wave </field>
+      <field name="hex_value">#FF7A00</field>
+    </record>
+    <record id="Color_0381" model="dog.color">
+      <field name="name">Heliotrope </field>
+      <field name="hex_value">#DF73FF</field>
+    </record>
+    <record id="Color_0382" model="dog.color">
+      <field name="name">Heliotrope gray </field>
+      <field name="hex_value">#AA98A9</field>
+    </record>
+    <record id="Color_0383" model="dog.color">
+      <field name="name">Hollywood cerise </field>
+      <field name="hex_value">#F400A1</field>
+    </record>
+    <record id="Color_0384" model="dog.color">
+      <field name="name">Honeydew </field>
+      <field name="hex_value">#F0FFF0</field>
+    </record>
+    <record id="Color_0385" model="dog.color">
+      <field name="name">Honolulu blue </field>
+      <field name="hex_value">#006DB0</field>
+    </record>
+    <record id="Color_0386" model="dog.color">
+      <field name="name">Hooker's green </field>
+      <field name="hex_value">#49796B</field>
+    </record>
+    <record id="Color_0387" model="dog.color">
+      <field name="name">Hot magenta </field>
+      <field name="hex_value">#FF1DCE</field>
+    </record>
+    <record id="Color_0388" model="dog.color">
+      <field name="name">Hot pink </field>
+      <field name="hex_value">#FF69B4</field>
+    </record>
+    <record id="Color_0389" model="dog.color">
+      <field name="name">Hunter green </field>
+      <field name="hex_value">#355E3B</field>
+    </record>
+    <record id="Color_0390" model="dog.color">
+      <field name="name">Iceberg </field>
+      <field name="hex_value">#71A6D2</field>
+    </record>
+    <record id="Color_0391" model="dog.color">
+      <field name="name">Icterine </field>
+      <field name="hex_value">#FCF75E</field>
+    </record>
+    <record id="Color_0392" model="dog.color">
+      <field name="name">Illuminating emerald </field>
+      <field name="hex_value">#319177</field>
+    </record>
+    <record id="Color_0393" model="dog.color">
+      <field name="name">Imperial red </field>
+      <field name="hex_value">#ED2939</field>
+    </record>
+    <record id="Color_0394" model="dog.color">
+      <field name="name">Inchworm </field>
+      <field name="hex_value">#B2EC5D</field>
+    </record>
+    <record id="Color_0395" model="dog.color">
+      <field name="name">Independence </field>
+      <field name="hex_value">#4C516D</field>
+    </record>
+    <record id="Color_0396" model="dog.color">
+      <field name="name">India green </field>
+      <field name="hex_value">#138808</field>
+    </record>
+    <record id="Color_0397" model="dog.color">
+      <field name="name">Indian red </field>
+      <field name="hex_value">#CD5C5C</field>
+    </record>
+    <record id="Color_0398" model="dog.color">
+      <field name="name">Indian yellow </field>
+      <field name="hex_value">#E3A857</field>
+    </record>
+    <record id="Color_0399" model="dog.color">
+      <field name="name">Indigo </field>
+      <field name="hex_value">#4B0082</field>
+    </record>
+    <record id="Color_0400" model="dog.color">
+      <field name="name">Indigo dye </field>
+      <field name="hex_value">#00416A</field>
+    </record>
+    <record id="Color_0401" model="dog.color">
+      <field name="name">International orange (aerospace) </field>
+      <field name="hex_value">#FF4F00</field>
+    </record>
+    <record id="Color_0402" model="dog.color">
+      <field name="name">International orange (engineering) </field>
+      <field name="hex_value">#BA160C</field>
+    </record>
+    <record id="Color_0403" model="dog.color">
+      <field name="name">International orange (Golden Gate Bridge) </field>
+      <field name="hex_value">#C0362C</field>
+    </record>
+    <record id="Color_0404" model="dog.color">
+      <field name="name">Iris </field>
+      <field name="hex_value">#5A4FCF</field>
+    </record>
+    <record id="Color_0405" model="dog.color">
+      <field name="name">Irresistible </field>
+      <field name="hex_value">#B3446C</field>
+    </record>
+    <record id="Color_0406" model="dog.color">
+      <field name="name">Isabelline </field>
+      <field name="hex_value">#F4F0EC</field>
+    </record>
+    <record id="Color_0407" model="dog.color">
+      <field name="name">Italian sky blue </field>
+      <field name="hex_value">#B2FFFF</field>
+    </record>
+    <record id="Color_0408" model="dog.color">
+      <field name="name">Ivory </field>
+      <field name="hex_value">#FFFFF0</field>
+    </record>
+    <record id="Color_0409" model="dog.color">
+      <field name="name">Jade </field>
+      <field name="hex_value">#00A86B</field>
+    </record>
+    <record id="Color_0410" model="dog.color">
+      <field name="name">Japanese carmine </field>
+      <field name="hex_value">#9D2933</field>
+    </record>
+    <record id="Color_0411" model="dog.color">
+      <field name="name">Japanese violet </field>
+      <field name="hex_value">#5B3256</field>
+    </record>
+    <record id="Color_0412" model="dog.color">
+      <field name="name">Jasmine </field>
+      <field name="hex_value">#F8DE7E</field>
+    </record>
+    <record id="Color_0413" model="dog.color">
+      <field name="name">Jazzberry jam </field>
+      <field name="hex_value">#A50B5E</field>
+    </record>
+    <record id="Color_0414" model="dog.color">
+      <field name="name">Jet </field>
+      <field name="hex_value">#343434</field>
+    </record>
+    <record id="Color_0415" model="dog.color">
+      <field name="name">Jonquil </field>
+      <field name="hex_value">#F4CA16</field>
+    </record>
+    <record id="Color_0416" model="dog.color">
+      <field name="name">June bud </field>
+      <field name="hex_value">#BDDA57</field>
+    </record>
+    <record id="Color_0417" model="dog.color">
+      <field name="name">Jungle green </field>
+      <field name="hex_value">#29AB87</field>
+    </record>
+    <record id="Color_0418" model="dog.color">
+      <field name="name">Kelly green </field>
+      <field name="hex_value">#4CBB17</field>
+    </record>
+    <record id="Color_0419" model="dog.color">
+      <field name="name">Keppel </field>
+      <field name="hex_value">#3AB09E</field>
+    </record>
+    <record id="Color_0420" model="dog.color">
+      <field name="name">Key lime </field>
+      <field name="hex_value">#E8F48C</field>
+    </record>
+    <record id="Color_0421" model="dog.color">
+      <field name="name">Khaki (web) </field>
+      <field name="hex_value">#C3B091</field>
+    </record>
+    <record id="Color_0422" model="dog.color">
+      <field name="name">Khaki (X11) (Light khaki) </field>
+      <field name="hex_value">#F0E68C</field>
+    </record>
+    <record id="Color_0423" model="dog.color">
+      <field name="name">Kobe </field>
+      <field name="hex_value">#882D17</field>
+    </record>
+    <record id="Color_0424" model="dog.color">
+      <field name="name">Kobi </field>
+      <field name="hex_value">#E79FC4</field>
+    </record>
+    <record id="Color_0425" model="dog.color">
+      <field name="name">Kobicha </field>
+      <field name="hex_value">#6B4423</field>
+    </record>
+    <record id="Color_0426" model="dog.color">
+      <field name="name">Kombu green </field>
+      <field name="hex_value">#354230</field>
+    </record>
+    <record id="Color_0427" model="dog.color">
+      <field name="name">KSU purple </field>
+      <field name="hex_value">#512888</field>
+    </record>
+    <record id="Color_0428" model="dog.color">
+      <field name="name">Languid lavender </field>
+      <field name="hex_value">#D6CADD</field>
+    </record>
+    <record id="Color_0429" model="dog.color">
+      <field name="name">Lapis lazuli </field>
+      <field name="hex_value">#26619C</field>
+    </record>
+    <record id="Color_0430" model="dog.color">
+      <field name="name">Laser lemon </field>
+      <field name="hex_value">#FFFF66</field>
+    </record>
+    <record id="Color_0431" model="dog.color">
+      <field name="name">Laurel green </field>
+      <field name="hex_value">#A9BA9D</field>
+    </record>
+    <record id="Color_0432" model="dog.color">
+      <field name="name">Lava </field>
+      <field name="hex_value">#CF1020</field>
+    </record>
+    <record id="Color_0433" model="dog.color">
+      <field name="name">Lavender (floral) </field>
+      <field name="hex_value">#B57EDC</field>
+    </record>
+    <record id="Color_0434" model="dog.color">
+      <field name="name">Lavender (web) </field>
+      <field name="hex_value">#E6E6FA</field>
+    </record>
+    <record id="Color_0435" model="dog.color">
+      <field name="name">Lavender blue </field>
+      <field name="hex_value">#CCCCFF</field>
+    </record>
+    <record id="Color_0436" model="dog.color">
+      <field name="name">Lavender blush </field>
+      <field name="hex_value">#FFF0F5</field>
+    </record>
+    <record id="Color_0437" model="dog.color">
+      <field name="name">Lavender gray </field>
+      <field name="hex_value">#C4C3D0</field>
+    </record>
+    <record id="Color_0438" model="dog.color">
+      <field name="name">Lawn green </field>
+      <field name="hex_value">#7CFC00</field>
+    </record>
+    <record id="Color_0439" model="dog.color">
+      <field name="name">Lemon </field>
+      <field name="hex_value">#FFF700</field>
+    </record>
+    <record id="Color_0440" model="dog.color">
+      <field name="name">Lemon chiffon </field>
+      <field name="hex_value">#FFFACD</field>
+    </record>
+    <record id="Color_0441" model="dog.color">
+      <field name="name">Lemon curry </field>
+      <field name="hex_value">#CCA01D</field>
+    </record>
+    <record id="Color_0442" model="dog.color">
+      <field name="name">Lemon glacier </field>
+      <field name="hex_value">#FDFF00</field>
+    </record>
+    <record id="Color_0443" model="dog.color">
+      <field name="name">Lemon meringue </field>
+      <field name="hex_value">#F6EABE</field>
+    </record>
+    <record id="Color_0444" model="dog.color">
+      <field name="name">Lemon yellow </field>
+      <field name="hex_value">#FFF44F</field>
+    </record>
+    <record id="Color_0445" model="dog.color">
+      <field name="name">Lemon yellow (Crayola) </field>
+      <field name="hex_value">#FFFF9F</field>
+    </record>
+    <record id="Color_0446" model="dog.color">
+      <field name="name">Liberty </field>
+      <field name="hex_value">#545AA7</field>
+    </record>
+    <record id="Color_0447" model="dog.color">
+      <field name="name">Light blue </field>
+      <field name="hex_value">#ADD8E6</field>
+    </record>
+    <record id="Color_0448" model="dog.color">
+      <field name="name">Light coral </field>
+      <field name="hex_value">#F08080</field>
+    </record>
+    <record id="Color_0449" model="dog.color">
+      <field name="name">Light cornflower blue </field>
+      <field name="hex_value">#93CCEA</field>
+    </record>
+    <record id="Color_0450" model="dog.color">
+      <field name="name">Light cyan </field>
+      <field name="hex_value">#E0FFFF</field>
+    </record>
+    <record id="Color_0451" model="dog.color">
+      <field name="name">Light French beige </field>
+      <field name="hex_value">#C8AD7F</field>
+    </record>
+    <record id="Color_0452" model="dog.color">
+      <field name="name">Light goldenrod yellow </field>
+      <field name="hex_value">#FAFAD2</field>
+    </record>
+    <record id="Color_0453" model="dog.color">
+      <field name="name">Light gray </field>
+      <field name="hex_value">#D3D3D3</field>
+    </record>
+    <record id="Color_0454" model="dog.color">
+      <field name="name">Light green </field>
+      <field name="hex_value">#90EE90</field>
+    </record>
+    <record id="Color_0455" model="dog.color">
+      <field name="name">Light orange </field>
+      <field name="hex_value">#FED8B1</field>
+    </record>
+    <record id="Color_0456" model="dog.color">
+      <field name="name">Light periwinkle </field>
+      <field name="hex_value">#C5CBE1</field>
+    </record>
+    <record id="Color_0457" model="dog.color">
+      <field name="name">Light pink </field>
+      <field name="hex_value">#FFB6C1</field>
+    </record>
+    <record id="Color_0458" model="dog.color">
+      <field name="name">Light salmon </field>
+      <field name="hex_value">#FFA07A</field>
+    </record>
+    <record id="Color_0459" model="dog.color">
+      <field name="name">Light sea green </field>
+      <field name="hex_value">#20B2AA</field>
+    </record>
+    <record id="Color_0460" model="dog.color">
+      <field name="name">Light sky blue </field>
+      <field name="hex_value">#87CEFA</field>
+    </record>
+    <record id="Color_0461" model="dog.color">
+      <field name="name">Light slate gray </field>
+      <field name="hex_value">#778899</field>
+    </record>
+    <record id="Color_0462" model="dog.color">
+      <field name="name">Light steel blue </field>
+      <field name="hex_value">#B0C4DE</field>
+    </record>
+    <record id="Color_0463" model="dog.color">
+      <field name="name">Light yellow </field>
+      <field name="hex_value">#FFFFE0</field>
+    </record>
+    <record id="Color_0464" model="dog.color">
+      <field name="name">Lilac </field>
+      <field name="hex_value">#C8A2C8</field>
+    </record>
+    <record id="Color_0465" model="dog.color">
+      <field name="name">Lilac Luster </field>
+      <field name="hex_value">#AE98AA</field>
+    </record>
+    <record id="Color_0466" model="dog.color">
+      <field name="name">Lime (color wheel) </field>
+      <field name="hex_value">#BFFF00</field>
+    </record>
+    <record id="Color_0467" model="dog.color">
+      <field name="name">Lime (web) (X11 green) </field>
+      <field name="hex_value">#00FF00</field>
+    </record>
+    <record id="Color_0468" model="dog.color">
+      <field name="name">Lime green </field>
+      <field name="hex_value">#32CD32</field>
+    </record>
+    <record id="Color_0469" model="dog.color">
+      <field name="name">Lincoln green </field>
+      <field name="hex_value">#195905</field>
+    </record>
+    <record id="Color_0470" model="dog.color">
+      <field name="name">Linen </field>
+      <field name="hex_value">#FAF0E6</field>
+    </record>
+    <record id="Color_0471" model="dog.color">
+      <field name="name">Lion </field>
+      <field name="hex_value">#C19A6B</field>
+    </record>
+    <record id="Color_0472" model="dog.color">
+      <field name="name">Liseran purple </field>
+      <field name="hex_value">#DE6FA1</field>
+    </record>
+    <record id="Color_0473" model="dog.color">
+      <field name="name">Little boy blue </field>
+      <field name="hex_value">#6CA0DC</field>
+    </record>
+    <record id="Color_0474" model="dog.color">
+      <field name="name">Liver </field>
+      <field name="hex_value">#674C47</field>
+    </record>
+    <record id="Color_0475" model="dog.color">
+      <field name="name">Liver (dogs) </field>
+      <field name="hex_value">#B86D29</field>
+    </record>
+    <record id="Color_0476" model="dog.color">
+      <field name="name">Liver (organ) </field>
+      <field name="hex_value">#6C2E1F</field>
+    </record>
+    <record id="Color_0477" model="dog.color">
+      <field name="name">Liver chestnut </field>
+      <field name="hex_value">#987456</field>
+    </record>
+    <record id="Color_0478" model="dog.color">
+      <field name="name">Livid </field>
+      <field name="hex_value">#6699CC</field>
+    </record>
+    <record id="Color_0479" model="dog.color">
+      <field name="name">Macaroni and Cheese </field>
+      <field name="hex_value">#FFBD88</field>
+    </record>
+    <record id="Color_0480" model="dog.color">
+      <field name="name">Madder Lake </field>
+      <field name="hex_value">#CC3336</field>
+    </record>
+    <record id="Color_0481" model="dog.color">
+      <field name="name">Magenta </field>
+      <field name="hex_value">#FF00FF</field>
+    </record>
+    <record id="Color_0482" model="dog.color">
+      <field name="name">Magenta (Crayola) </field>
+      <field name="hex_value">#F653A6</field>
+    </record>
+    <record id="Color_0483" model="dog.color">
+      <field name="name">Magenta (dye) </field>
+      <field name="hex_value">#CA1F7B</field>
+    </record>
+    <record id="Color_0484" model="dog.color">
+      <field name="name">Magenta (Pantone) </field>
+      <field name="hex_value">#D0417E</field>
+    </record>
+    <record id="Color_0485" model="dog.color">
+      <field name="name">Magenta (process) </field>
+      <field name="hex_value">#FF0090</field>
+    </record>
+    <record id="Color_0486" model="dog.color">
+      <field name="name">Magenta haze </field>
+      <field name="hex_value">#9F4576</field>
+    </record>
+    <record id="Color_0487" model="dog.color">
+      <field name="name">Magic mint </field>
+      <field name="hex_value">#AAF0D1</field>
+    </record>
+    <record id="Color_0488" model="dog.color">
+      <field name="name">Magnolia </field>
+      <field name="hex_value">#F2E8D7</field>
+    </record>
+    <record id="Color_0489" model="dog.color">
+      <field name="name">Mahogany </field>
+      <field name="hex_value">#C04000</field>
+    </record>
+    <record id="Color_0490" model="dog.color">
+      <field name="name">Maize </field>
+      <field name="hex_value">#FBEC5D</field>
+    </record>
+    <record id="Color_0491" model="dog.color">
+      <field name="name">Maize (Crayola) </field>
+      <field name="hex_value">#F2C649</field>
+    </record>
+    <record id="Color_0492" model="dog.color">
+      <field name="name">Majorelle blue </field>
+      <field name="hex_value">#6050DC</field>
+    </record>
+    <record id="Color_0493" model="dog.color">
+      <field name="name">Malachite </field>
+      <field name="hex_value">#0BDA51</field>
+    </record>
+    <record id="Color_0494" model="dog.color">
+      <field name="name">Manatee </field>
+      <field name="hex_value">#979AAA</field>
+    </record>
+    <record id="Color_0495" model="dog.color">
+      <field name="name">Mandarin </field>
+      <field name="hex_value">#F37A48</field>
+    </record>
+    <record id="Color_0496" model="dog.color">
+      <field name="name">Mango </field>
+      <field name="hex_value">#FDBE02</field>
+    </record>
+    <record id="Color_0497" model="dog.color">
+      <field name="name">Mango Tango </field>
+      <field name="hex_value">#FF8243</field>
+    </record>
+    <record id="Color_0498" model="dog.color">
+      <field name="name">Mantis </field>
+      <field name="hex_value">#74C365</field>
+    </record>
+    <record id="Color_0499" model="dog.color">
+      <field name="name">Mardi Gras </field>
+      <field name="hex_value">#880085</field>
+    </record>
+    <record id="Color_0500" model="dog.color">
+      <field name="name">Marigold </field>
+      <field name="hex_value">#EAA221</field>
+    </record>
+    <record id="Color_0501" model="dog.color">
+      <field name="name">Maroon (Crayola) </field>
+      <field name="hex_value">#C32148</field>
+    </record>
+    <record id="Color_0502" model="dog.color">
+      <field name="name">Maroon (web) </field>
+      <field name="hex_value">#800000</field>
+    </record>
+    <record id="Color_0503" model="dog.color">
+      <field name="name">Maroon (X11) </field>
+      <field name="hex_value">#B03060</field>
+    </record>
+    <record id="Color_0504" model="dog.color">
+      <field name="name">Mauve </field>
+      <field name="hex_value">#E0B0FF</field>
+    </record>
+    <record id="Color_0505" model="dog.color">
+      <field name="name">Mauve taupe </field>
+      <field name="hex_value">#915F6D</field>
+    </record>
+    <record id="Color_0506" model="dog.color">
+      <field name="name">Mauvelous </field>
+      <field name="hex_value">#EF98AA</field>
+    </record>
+    <record id="Color_0507" model="dog.color">
+      <field name="name">Maximum blue </field>
+      <field name="hex_value">#47ABCC</field>
+    </record>
+    <record id="Color_0508" model="dog.color">
+      <field name="name">Maximum blue green </field>
+      <field name="hex_value">#30BFBF</field>
+    </record>
+    <record id="Color_0509" model="dog.color">
+      <field name="name">Maximum blue purple </field>
+      <field name="hex_value">#ACACE6</field>
+    </record>
+    <record id="Color_0510" model="dog.color">
+      <field name="name">Maximum green </field>
+      <field name="hex_value">#5E8C31</field>
+    </record>
+    <record id="Color_0511" model="dog.color">
+      <field name="name">Maximum green yellow </field>
+      <field name="hex_value">#D9E650</field>
+    </record>
+    <record id="Color_0512" model="dog.color">
+      <field name="name">Maximum purple </field>
+      <field name="hex_value">#733380</field>
+    </record>
+    <record id="Color_0513" model="dog.color">
+      <field name="name">Maximum red </field>
+      <field name="hex_value">#D92121</field>
+    </record>
+    <record id="Color_0514" model="dog.color">
+      <field name="name">Maximum red purple </field>
+      <field name="hex_value">#A63A79</field>
+    </record>
+    <record id="Color_0515" model="dog.color">
+      <field name="name">Maximum yellow </field>
+      <field name="hex_value">#FAFA37</field>
+    </record>
+    <record id="Color_0516" model="dog.color">
+      <field name="name">Maximum yellow red </field>
+      <field name="hex_value">#F2BA49</field>
+    </record>
+    <record id="Color_0517" model="dog.color">
+      <field name="name">May green </field>
+      <field name="hex_value">#4C9141</field>
+    </record>
+    <record id="Color_0518" model="dog.color">
+      <field name="name">Maya blue </field>
+      <field name="hex_value">#73C2FB</field>
+    </record>
+    <record id="Color_0519" model="dog.color">
+      <field name="name">Medium aquamarine </field>
+      <field name="hex_value">#66DDAA</field>
+    </record>
+    <record id="Color_0520" model="dog.color">
+      <field name="name">Medium blue </field>
+      <field name="hex_value">#0000CD</field>
+    </record>
+    <record id="Color_0521" model="dog.color">
+      <field name="name">Medium candy apple red </field>
+      <field name="hex_value">#E2062C</field>
+    </record>
+    <record id="Color_0522" model="dog.color">
+      <field name="name">Medium carmine </field>
+      <field name="hex_value">#AF4035</field>
+    </record>
+    <record id="Color_0523" model="dog.color">
+      <field name="name">Medium champagne </field>
+      <field name="hex_value">#F3E5AB</field>
+    </record>
+    <record id="Color_0524" model="dog.color">
+      <field name="name">Medium orchid </field>
+      <field name="hex_value">#BA55D3</field>
+    </record>
+    <record id="Color_0525" model="dog.color">
+      <field name="name">Medium purple </field>
+      <field name="hex_value">#9370DB</field>
+    </record>
+    <record id="Color_0526" model="dog.color">
+      <field name="name">Medium sea green </field>
+      <field name="hex_value">#3CB371</field>
+    </record>
+    <record id="Color_0527" model="dog.color">
+      <field name="name">Medium slate blue </field>
+      <field name="hex_value">#7B68EE</field>
+    </record>
+    <record id="Color_0528" model="dog.color">
+      <field name="name">Medium spring green </field>
+      <field name="hex_value">#00FA9A</field>
+    </record>
+    <record id="Color_0529" model="dog.color">
+      <field name="name">Medium turquoise </field>
+      <field name="hex_value">#48D1CC</field>
+    </record>
+    <record id="Color_0530" model="dog.color">
+      <field name="name">Medium violet-red </field>
+      <field name="hex_value">#C71585</field>
+    </record>
+    <record id="Color_0531" model="dog.color">
+      <field name="name">Mellow apricot </field>
+      <field name="hex_value">#F8B878</field>
+    </record>
+    <record id="Color_0532" model="dog.color">
+      <field name="name">Mellow yellow </field>
+      <field name="hex_value">#F8DE7E</field>
+    </record>
+    <record id="Color_0533" model="dog.color">
+      <field name="name">Melon </field>
+      <field name="hex_value">#FEBAAD</field>
+    </record>
+    <record id="Color_0534" model="dog.color">
+      <field name="name">Metallic gold </field>
+      <field name="hex_value">#D3AF37</field>
+    </record>
+    <record id="Color_0535" model="dog.color">
+      <field name="name">Metallic Seaweed </field>
+      <field name="hex_value">#0A7E8C</field>
+    </record>
+    <record id="Color_0536" model="dog.color">
+      <field name="name">Metallic Sunburst </field>
+      <field name="hex_value">#9C7C38</field>
+    </record>
+    <record id="Color_0537" model="dog.color">
+      <field name="name">Mexican pink </field>
+      <field name="hex_value">#E4007C</field>
+    </record>
+    <record id="Color_0538" model="dog.color">
+      <field name="name">Middle blue </field>
+      <field name="hex_value">#7ED4E6</field>
+    </record>
+    <record id="Color_0539" model="dog.color">
+      <field name="name">Middle blue green </field>
+      <field name="hex_value">#8DD9CC</field>
+    </record>
+    <record id="Color_0540" model="dog.color">
+      <field name="name">Middle blue purple </field>
+      <field name="hex_value">#8B72BE</field>
+    </record>
+    <record id="Color_0541" model="dog.color">
+      <field name="name">Middle green </field>
+      <field name="hex_value">#4D8C57</field>
+    </record>
+    <record id="Color_0542" model="dog.color">
+      <field name="name">Middle green yellow </field>
+      <field name="hex_value">#ACBF60</field>
+    </record>
+    <record id="Color_0543" model="dog.color">
+      <field name="name">Middle grey </field>
+      <field name="hex_value">#8B8680</field>
+    </record>
+    <record id="Color_0544" model="dog.color">
+      <field name="name">Middle purple </field>
+      <field name="hex_value">#D982B5</field>
+    </record>
+    <record id="Color_0545" model="dog.color">
+      <field name="name">Middle red </field>
+      <field name="hex_value">#E58E73</field>
+    </record>
+    <record id="Color_0546" model="dog.color">
+      <field name="name">Middle red purple </field>
+      <field name="hex_value">#A55353</field>
+    </record>
+    <record id="Color_0547" model="dog.color">
+      <field name="name">Middle yellow </field>
+      <field name="hex_value">#FFEB00</field>
+    </record>
+    <record id="Color_0548" model="dog.color">
+      <field name="name">Middle yellow red </field>
+      <field name="hex_value">#ECB176</field>
+    </record>
+    <record id="Color_0549" model="dog.color">
+      <field name="name">Midnight </field>
+      <field name="hex_value">#702670</field>
+    </record>
+    <record id="Color_0550" model="dog.color">
+      <field name="name">Midnight blue </field>
+      <field name="hex_value">#191970</field>
+    </record>
+    <record id="Color_0551" model="dog.color">
+      <field name="name">Midnight green (eagle green) </field>
+      <field name="hex_value">#004953</field>
+    </record>
+    <record id="Color_0552" model="dog.color">
+      <field name="name">Mikado yellow </field>
+      <field name="hex_value">#FFC40C</field>
+    </record>
+    <record id="Color_0553" model="dog.color">
+      <field name="name">Mimi pink </field>
+      <field name="hex_value">#FFDAE9</field>
+    </record>
+    <record id="Color_0554" model="dog.color">
+      <field name="name">Mindaro </field>
+      <field name="hex_value">#E3F988</field>
+    </record>
+    <record id="Color_0555" model="dog.color">
+      <field name="name">Ming </field>
+      <field name="hex_value">#36747D</field>
+    </record>
+    <record id="Color_0556" model="dog.color">
+      <field name="name">Minion yellow </field>
+      <field name="hex_value">#F5E050</field>
+    </record>
+    <record id="Color_0557" model="dog.color">
+      <field name="name">Mint </field>
+      <field name="hex_value">#3EB489</field>
+    </record>
+    <record id="Color_0558" model="dog.color">
+      <field name="name">Mint cream </field>
+      <field name="hex_value">#F5FFFA</field>
+    </record>
+    <record id="Color_0559" model="dog.color">
+      <field name="name">Mint green </field>
+      <field name="hex_value">#98FF98</field>
+    </record>
+    <record id="Color_0560" model="dog.color">
+      <field name="name">Misty moss </field>
+      <field name="hex_value">#BBB477</field>
+    </record>
+    <record id="Color_0561" model="dog.color">
+      <field name="name">Misty rose </field>
+      <field name="hex_value">#FFE4E1</field>
+    </record>
+    <record id="Color_0562" model="dog.color">
+      <field name="name">Mode beige </field>
+      <field name="hex_value">#967117</field>
+    </record>
+    <record id="Color_0563" model="dog.color">
+      <field name="name">Morning blue </field>
+      <field name="hex_value">#8DA399</field>
+    </record>
+    <record id="Color_0564" model="dog.color">
+      <field name="name">Moss green </field>
+      <field name="hex_value">#8A9A5B</field>
+    </record>
+    <record id="Color_0565" model="dog.color">
+      <field name="name">Mountain Meadow </field>
+      <field name="hex_value">#30BA8F</field>
+    </record>
+    <record id="Color_0566" model="dog.color">
+      <field name="name">Mountbatten pink </field>
+      <field name="hex_value">#997A8D</field>
+    </record>
+    <record id="Color_0567" model="dog.color">
+      <field name="name">MSU green </field>
+      <field name="hex_value">#18453B</field>
+    </record>
+    <record id="Color_0568" model="dog.color">
+      <field name="name">Mulberry </field>
+      <field name="hex_value">#C54B8C</field>
+    </record>
+    <record id="Color_0569" model="dog.color">
+      <field name="name">Mulberry (Crayola) </field>
+      <field name="hex_value">#C8509B</field>
+    </record>
+    <record id="Color_0570" model="dog.color">
+      <field name="name">Mustard </field>
+      <field name="hex_value">#FFDB58</field>
+    </record>
+    <record id="Color_0571" model="dog.color">
+      <field name="name">Myrtle green </field>
+      <field name="hex_value">#317873</field>
+    </record>
+    <record id="Color_0572" model="dog.color">
+      <field name="name">Mystic </field>
+      <field name="hex_value">#D65282</field>
+    </record>
+    <record id="Color_0573" model="dog.color">
+      <field name="name">Mystic maroon </field>
+      <field name="hex_value">#AD4379</field>
+    </record>
+    <record id="Color_0574" model="dog.color">
+      <field name="name">Nadeshiko pink </field>
+      <field name="hex_value">#F6ADC6</field>
+    </record>
+    <record id="Color_0575" model="dog.color">
+      <field name="name">Naples yellow </field>
+      <field name="hex_value">#FADA5E</field>
+    </record>
+    <record id="Color_0576" model="dog.color">
+      <field name="name">Navajo white </field>
+      <field name="hex_value">#FFDEAD</field>
+    </record>
+    <record id="Color_0577" model="dog.color">
+      <field name="name">Navy blue </field>
+      <field name="hex_value">#000080</field>
+    </record>
+    <record id="Color_0578" model="dog.color">
+      <field name="name">Navy blue (Crayola) </field>
+      <field name="hex_value">#1974D2</field>
+    </record>
+    <record id="Color_0579" model="dog.color">
+      <field name="name">Neon blue </field>
+      <field name="hex_value">#4666FF</field>
+    </record>
+    <record id="Color_0580" model="dog.color">
+      <field name="name">Neon Carrot </field>
+      <field name="hex_value">#FFA343</field>
+    </record>
+    <record id="Color_0581" model="dog.color">
+      <field name="name">Neon fuchsia </field>
+      <field name="hex_value">#FE4164</field>
+    </record>
+    <record id="Color_0582" model="dog.color">
+      <field name="name">Neon green </field>
+      <field name="hex_value">#39FF14</field>
+    </record>
+    <record id="Color_0583" model="dog.color">
+      <field name="name">New York pink </field>
+      <field name="hex_value">#D7837F</field>
+    </record>
+    <record id="Color_0584" model="dog.color">
+      <field name="name">Nickel </field>
+      <field name="hex_value">#727472</field>
+    </record>
+    <record id="Color_0585" model="dog.color">
+      <field name="name">Non-photo blue </field>
+      <field name="hex_value">#A4DDED</field>
+    </record>
+    <record id="Color_0586" model="dog.color">
+      <field name="name">Nyanza </field>
+      <field name="hex_value">#E9FFDB</field>
+    </record>
+    <record id="Color_0587" model="dog.color">
+      <field name="name">Ocean Blue </field>
+      <field name="hex_value">#4F42B5</field>
+    </record>
+    <record id="Color_0588" model="dog.color">
+      <field name="name">Ocean green </field>
+      <field name="hex_value">#48BF91</field>
+    </record>
+    <record id="Color_0589" model="dog.color">
+      <field name="name">Ochre </field>
+      <field name="hex_value">#CC7722</field>
+    </record>
+    <record id="Color_0590" model="dog.color">
+      <field name="name">Old burgundy </field>
+      <field name="hex_value">#43302E</field>
+    </record>
+    <record id="Color_0591" model="dog.color">
+      <field name="name">Old gold </field>
+      <field name="hex_value">#CFB53B</field>
+    </record>
+    <record id="Color_0592" model="dog.color">
+      <field name="name">Old lace </field>
+      <field name="hex_value">#FDF5E6</field>
+    </record>
+    <record id="Color_0593" model="dog.color">
+      <field name="name">Old lavender </field>
+      <field name="hex_value">#796878</field>
+    </record>
+    <record id="Color_0594" model="dog.color">
+      <field name="name">Old mauve </field>
+      <field name="hex_value">#673147</field>
+    </record>
+    <record id="Color_0595" model="dog.color">
+      <field name="name">Old rose </field>
+      <field name="hex_value">#C08081</field>
+    </record>
+    <record id="Color_0596" model="dog.color">
+      <field name="name">Old silver </field>
+      <field name="hex_value">#848482</field>
+    </record>
+    <record id="Color_0597" model="dog.color">
+      <field name="name">Olive </field>
+      <field name="hex_value">#808000</field>
+    </record>
+    <record id="Color_0598" model="dog.color">
+      <field name="name">Olive Drab (#3) </field>
+      <field name="hex_value">#6B8E23</field>
+    </record>
+    <record id="Color_0599" model="dog.color">
+      <field name="name">Olive Drab #7 </field>
+      <field name="hex_value">#3C341F</field>
+    </record>
+    <record id="Color_0600" model="dog.color">
+      <field name="name">Olive green </field>
+      <field name="hex_value">#B5B35C</field>
+    </record>
+    <record id="Color_0601" model="dog.color">
+      <field name="name">Olivine </field>
+      <field name="hex_value">#9AB973</field>
+    </record>
+    <record id="Color_0602" model="dog.color">
+      <field name="name">Onyx </field>
+      <field name="hex_value">#353839</field>
+    </record>
+    <record id="Color_0603" model="dog.color">
+      <field name="name">Opal </field>
+      <field name="hex_value">#A8C3BC</field>
+    </record>
+    <record id="Color_0604" model="dog.color">
+      <field name="name">Opera mauve </field>
+      <field name="hex_value">#B784A7</field>
+    </record>
+    <record id="Color_0605" model="dog.color">
+      <field name="name">Orange </field>
+      <field name="hex_value">#FF7F00</field>
+    </record>
+    <record id="Color_0606" model="dog.color">
+      <field name="name">Orange (Crayola) </field>
+      <field name="hex_value">#FF7538</field>
+    </record>
+    <record id="Color_0607" model="dog.color">
+      <field name="name">Orange (Pantone) </field>
+      <field name="hex_value">#FF5800</field>
+    </record>
+    <record id="Color_0608" model="dog.color">
+      <field name="name">Orange (web) </field>
+      <field name="hex_value">#FFA500</field>
+    </record>
+    <record id="Color_0609" model="dog.color">
+      <field name="name">Orange peel </field>
+      <field name="hex_value">#FF9F00</field>
+    </record>
+    <record id="Color_0610" model="dog.color">
+      <field name="name">Orange soda </field>
+      <field name="hex_value">#FA5B3D</field>
+    </record>
+    <record id="Color_0611" model="dog.color">
+      <field name="name">Orange-red </field>
+      <field name="hex_value">#FF681F</field>
+    </record>
+    <record id="Color_0612" model="dog.color">
+      <field name="name">Orange-red (Crayola) </field>
+      <field name="hex_value">#FF5349</field>
+    </record>
+    <record id="Color_0613" model="dog.color">
+      <field name="name">Orange-yellow </field>
+      <field name="hex_value">#F5BD1F</field>
+    </record>
+    <record id="Color_0614" model="dog.color">
+      <field name="name">Orange-yellow (Crayola) </field>
+      <field name="hex_value">#F8D568</field>
+    </record>
+    <record id="Color_0615" model="dog.color">
+      <field name="name">Orchid </field>
+      <field name="hex_value">#DA70D6</field>
+    </record>
+    <record id="Color_0616" model="dog.color">
+      <field name="name">Orchid (Crayola) </field>
+      <field name="hex_value">#E29CD2</field>
+    </record>
+    <record id="Color_0617" model="dog.color">
+      <field name="name">Orchid pink </field>
+      <field name="hex_value">#F2BDCD</field>
+    </record>
+    <record id="Color_0618" model="dog.color">
+      <field name="name">OU Crimson red </field>
+      <field name="hex_value">#841617</field>
+    </record>
+    <record id="Color_0619" model="dog.color">
+      <field name="name">Outer space (Crayola) </field>
+      <field name="hex_value">#2D383A</field>
+    </record>
+    <record id="Color_0620" model="dog.color">
+      <field name="name">Outrageous Orange </field>
+      <field name="hex_value">#FF6E4A</field>
+    </record>
+    <record id="Color_0621" model="dog.color">
+      <field name="name">Oxblood </field>
+      <field name="hex_value">#4A0000</field>
+    </record>
+    <record id="Color_0622" model="dog.color">
+      <field name="name">Oxford blue </field>
+      <field name="hex_value">#002147</field>
+    </record>
+    <record id="Color_0623" model="dog.color">
+      <field name="name">Pacific blue </field>
+      <field name="hex_value">#1CA9C9</field>
+    </record>
+    <record id="Color_0624" model="dog.color">
+      <field name="name">Pakistan green </field>
+      <field name="hex_value">#006600</field>
+    </record>
+    <record id="Color_0625" model="dog.color">
+      <field name="name">Palatinate purple </field>
+      <field name="hex_value">#682860</field>
+    </record>
+    <record id="Color_0626" model="dog.color">
+      <field name="name">Pale aqua </field>
+      <field name="hex_value">#BCD4E6</field>
+    </record>
+    <record id="Color_0627" model="dog.color">
+      <field name="name">Pale cerulean </field>
+      <field name="hex_value">#9BC4E2</field>
+    </record>
+    <record id="Color_0628" model="dog.color">
+      <field name="name">Pale Dogwood </field>
+      <field name="hex_value">#ED7A9B</field>
+    </record>
+    <record id="Color_0629" model="dog.color">
+      <field name="name">Pale pink </field>
+      <field name="hex_value">#FADADD</field>
+    </record>
+    <record id="Color_0630" model="dog.color">
+      <field name="name">Pale purple (Pantone) </field>
+      <field name="hex_value">#FAE6FA</field>
+    </record>
+    <record id="Color_0631" model="dog.color">
+      <field name="name">Pale silver </field>
+      <field name="hex_value">#C9C0BB</field>
+    </record>
+    <record id="Color_0632" model="dog.color">
+      <field name="name">Pale spring bud </field>
+      <field name="hex_value">#ECEBBD</field>
+    </record>
+    <record id="Color_0633" model="dog.color">
+      <field name="name">Pansy purple </field>
+      <field name="hex_value">#78184A</field>
+    </record>
+    <record id="Color_0634" model="dog.color">
+      <field name="name">Paolo Veronese green </field>
+      <field name="hex_value">#009B7D</field>
+    </record>
+    <record id="Color_0635" model="dog.color">
+      <field name="name">Papaya whip </field>
+      <field name="hex_value">#FFEFD5</field>
+    </record>
+    <record id="Color_0636" model="dog.color">
+      <field name="name">Paradise pink </field>
+      <field name="hex_value">#E63E62</field>
+    </record>
+    <record id="Color_0637" model="dog.color">
+      <field name="name">Parchment </field>
+      <field name="hex_value">#F1E9D2</field>
+    </record>
+    <record id="Color_0638" model="dog.color">
+      <field name="name">Paris Green </field>
+      <field name="hex_value">#50C878</field>
+    </record>
+    <record id="Color_0639" model="dog.color">
+      <field name="name">Pastel pink </field>
+      <field name="hex_value">#DEA5A4</field>
+    </record>
+    <record id="Color_0640" model="dog.color">
+      <field name="name">Patriarch </field>
+      <field name="hex_value">#800080</field>
+    </record>
+    <record id="Color_0641" model="dog.color">
+      <field name="name">Payne's grey </field>
+      <field name="hex_value">#536878</field>
+    </record>
+    <record id="Color_0642" model="dog.color">
+      <field name="name">Peach </field>
+      <field name="hex_value">#FFE5B4</field>
+    </record>
+    <record id="Color_0643" model="dog.color">
+      <field name="name">Peach (Crayola) </field>
+      <field name="hex_value">#FFCBA4</field>
+    </record>
+    <record id="Color_0644" model="dog.color">
+      <field name="name">Peach puff </field>
+      <field name="hex_value">#FFDAB9</field>
+    </record>
+    <record id="Color_0645" model="dog.color">
+      <field name="name">Pear </field>
+      <field name="hex_value">#D1E231</field>
+    </record>
+    <record id="Color_0646" model="dog.color">
+      <field name="name">Pearly purple </field>
+      <field name="hex_value">#B768A2</field>
+    </record>
+    <record id="Color_0647" model="dog.color">
+      <field name="name">Periwinkle </field>
+      <field name="hex_value">#CCCCFF</field>
+    </record>
+    <record id="Color_0648" model="dog.color">
+      <field name="name">Periwinkle (Crayola) </field>
+      <field name="hex_value">#C3CDE6</field>
+    </record>
+    <record id="Color_0649" model="dog.color">
+      <field name="name">Permanent Geranium Lake </field>
+      <field name="hex_value">#E12C2C</field>
+    </record>
+    <record id="Color_0650" model="dog.color">
+      <field name="name">Persian blue </field>
+      <field name="hex_value">#1C39BB</field>
+    </record>
+    <record id="Color_0651" model="dog.color">
+      <field name="name">Persian green </field>
+      <field name="hex_value">#00A693</field>
+    </record>
+    <record id="Color_0652" model="dog.color">
+      <field name="name">Persian indigo </field>
+      <field name="hex_value">#32127A</field>
+    </record>
+    <record id="Color_0653" model="dog.color">
+      <field name="name">Persian orange </field>
+      <field name="hex_value">#D99058</field>
+    </record>
+    <record id="Color_0654" model="dog.color">
+      <field name="name">Persian pink </field>
+      <field name="hex_value">#F77FBE</field>
+    </record>
+    <record id="Color_0655" model="dog.color">
+      <field name="name">Persian plum </field>
+      <field name="hex_value">#701C1C</field>
+    </record>
+    <record id="Color_0656" model="dog.color">
+      <field name="name">Persian red </field>
+      <field name="hex_value">#CC3333</field>
+    </record>
+    <record id="Color_0657" model="dog.color">
+      <field name="name">Persian rose </field>
+      <field name="hex_value">#FE28A2</field>
+    </record>
+    <record id="Color_0658" model="dog.color">
+      <field name="name">Persimmon </field>
+      <field name="hex_value">#EC5800</field>
+    </record>
+    <record id="Color_0659" model="dog.color">
+      <field name="name">Pewter Blue </field>
+      <field name="hex_value">#8BA8B7</field>
+    </record>
+    <record id="Color_0660" model="dog.color">
+      <field name="name">Phlox </field>
+      <field name="hex_value">#DF00FF</field>
+    </record>
+    <record id="Color_0661" model="dog.color">
+      <field name="name">Phthalo blue </field>
+      <field name="hex_value">#000F89</field>
+    </record>
+    <record id="Color_0662" model="dog.color">
+      <field name="name">Phthalo green </field>
+      <field name="hex_value">#123524</field>
+    </record>
+    <record id="Color_0663" model="dog.color">
+      <field name="name">Picotee blue </field>
+      <field name="hex_value">#2E2787</field>
+    </record>
+    <record id="Color_0664" model="dog.color">
+      <field name="name">Pictorial carmine </field>
+      <field name="hex_value">#C30B4E</field>
+    </record>
+    <record id="Color_0665" model="dog.color">
+      <field name="name">Piggy pink </field>
+      <field name="hex_value">#FDDDE6</field>
+    </record>
+    <record id="Color_0666" model="dog.color">
+      <field name="name">Pine green </field>
+      <field name="hex_value">#01796F</field>
+    </record>
+    <record id="Color_0667" model="dog.color">
+      <field name="name">Pine tree </field>
+      <field name="hex_value">#2A2F23</field>
+    </record>
+    <record id="Color_0668" model="dog.color">
+      <field name="name">Pink </field>
+      <field name="hex_value">#FFC0CB</field>
+    </record>
+    <record id="Color_0669" model="dog.color">
+      <field name="name">Pink (Pantone) </field>
+      <field name="hex_value">#D74894</field>
+    </record>
+    <record id="Color_0670" model="dog.color">
+      <field name="name">Pink flamingo </field>
+      <field name="hex_value">#FC74FD</field>
+    </record>
+    <record id="Color_0671" model="dog.color">
+      <field name="name">Pink lace </field>
+      <field name="hex_value">#FFDDF4</field>
+    </record>
+    <record id="Color_0672" model="dog.color">
+      <field name="name">Pink lavender </field>
+      <field name="hex_value">#D8B2D1</field>
+    </record>
+    <record id="Color_0673" model="dog.color">
+      <field name="name">Pink Sherbet </field>
+      <field name="hex_value">#F78FA7</field>
+    </record>
+    <record id="Color_0674" model="dog.color">
+      <field name="name">Pistachio </field>
+      <field name="hex_value">#93C572</field>
+    </record>
+    <record id="Color_0675" model="dog.color">
+      <field name="name">Platinum </field>
+      <field name="hex_value">#E5E4E2</field>
+    </record>
+    <record id="Color_0676" model="dog.color">
+      <field name="name">Plum </field>
+      <field name="hex_value">#8E4585</field>
+    </record>
+    <record id="Color_0677" model="dog.color">
+      <field name="name">Plum (web) </field>
+      <field name="hex_value">#DDA0DD</field>
+    </record>
+    <record id="Color_0678" model="dog.color">
+      <field name="name">Plump Purple </field>
+      <field name="hex_value">#5946B2</field>
+    </record>
+    <record id="Color_0679" model="dog.color">
+      <field name="name">Polished Pine </field>
+      <field name="hex_value">#5DA493</field>
+    </record>
+    <record id="Color_0680" model="dog.color">
+      <field name="name">Pomp and Power </field>
+      <field name="hex_value">#86608E</field>
+    </record>
+    <record id="Color_0681" model="dog.color">
+      <field name="name">Popstar </field>
+      <field name="hex_value">#BE4F62</field>
+    </record>
+    <record id="Color_0682" model="dog.color">
+      <field name="name">Portland Orange </field>
+      <field name="hex_value">#FF5A36</field>
+    </record>
+    <record id="Color_0683" model="dog.color">
+      <field name="name">Powder blue </field>
+      <field name="hex_value">#B0E0E6</field>
+    </record>
+    <record id="Color_0684" model="dog.color">
+      <field name="name">Princeton orange </field>
+      <field name="hex_value">#F58025</field>
+    </record>
+    <record id="Color_0685" model="dog.color">
+      <field name="name">Process yellow </field>
+      <field name="hex_value">#FFEF00</field>
+    </record>
+    <record id="Color_0686" model="dog.color">
+      <field name="name">Prune </field>
+      <field name="hex_value">#701C1C</field>
+    </record>
+    <record id="Color_0687" model="dog.color">
+      <field name="name">Prussian blue </field>
+      <field name="hex_value">#003153</field>
+    </record>
+    <record id="Color_0688" model="dog.color">
+      <field name="name">Psychedelic purple </field>
+      <field name="hex_value">#DF00FF</field>
+    </record>
+    <record id="Color_0689" model="dog.color">
+      <field name="name">Puce </field>
+      <field name="hex_value">#CC8899</field>
+    </record>
+    <record id="Color_0690" model="dog.color">
+      <field name="name">Pullman Brown (UPS Brown) </field>
+      <field name="hex_value">#644117</field>
+    </record>
+    <record id="Color_0691" model="dog.color">
+      <field name="name">Pumpkin </field>
+      <field name="hex_value">#FF7518</field>
+    </record>
+    <record id="Color_0692" model="dog.color">
+      <field name="name">Purple </field>
+      <field name="hex_value">#6A0DAD</field>
+    </record>
+    <record id="Color_0693" model="dog.color">
+      <field name="name">Purple (Munsell) </field>
+      <field name="hex_value">#9F00C5</field>
+    </record>
+    <record id="Color_0694" model="dog.color">
+      <field name="name">Purple (web) </field>
+      <field name="hex_value">#800080</field>
+    </record>
+    <record id="Color_0695" model="dog.color">
+      <field name="name">Purple (X11) </field>
+      <field name="hex_value">#A020F0</field>
+    </record>
+    <record id="Color_0696" model="dog.color">
+      <field name="name">Purple mountain majesty </field>
+      <field name="hex_value">#9678B6</field>
+    </record>
+    <record id="Color_0697" model="dog.color">
+      <field name="name">Purple navy </field>
+      <field name="hex_value">#4E5180</field>
+    </record>
+    <record id="Color_0698" model="dog.color">
+      <field name="name">Purple pizzazz </field>
+      <field name="hex_value">#FE4EDA</field>
+    </record>
+    <record id="Color_0699" model="dog.color">
+      <field name="name">Purple Plum </field>
+      <field name="hex_value">#9C51B6</field>
+    </record>
+    <record id="Color_0700" model="dog.color">
+      <field name="name">Purpureus </field>
+      <field name="hex_value">#9A4EAE</field>
+    </record>
+    <record id="Color_0701" model="dog.color">
+      <field name="name">Queen blue </field>
+      <field name="hex_value">#436B95</field>
+    </record>
+    <record id="Color_0702" model="dog.color">
+      <field name="name">Queen pink </field>
+      <field name="hex_value">#E8CCD7</field>
+    </record>
+    <record id="Color_0703" model="dog.color">
+      <field name="name">Quick Silver </field>
+      <field name="hex_value">#A6A6A6</field>
+    </record>
+    <record id="Color_0704" model="dog.color">
+      <field name="name">Quinacridone magenta </field>
+      <field name="hex_value">#8E3A59</field>
+    </record>
+    <record id="Color_0705" model="dog.color">
+      <field name="name">Radical Red </field>
+      <field name="hex_value">#FF355E</field>
+    </record>
+    <record id="Color_0706" model="dog.color">
+      <field name="name">Raisin black </field>
+      <field name="hex_value">#242124</field>
+    </record>
+    <record id="Color_0707" model="dog.color">
+      <field name="name">Rajah </field>
+      <field name="hex_value">#FBAB60</field>
+    </record>
+    <record id="Color_0708" model="dog.color">
+      <field name="name">Raspberry </field>
+      <field name="hex_value">#E30B5D</field>
+    </record>
+    <record id="Color_0709" model="dog.color">
+      <field name="name">Raspberry glace </field>
+      <field name="hex_value">#915F6D</field>
+    </record>
+    <record id="Color_0710" model="dog.color">
+      <field name="name">Raspberry rose </field>
+      <field name="hex_value">#B3446C</field>
+    </record>
+    <record id="Color_0711" model="dog.color">
+      <field name="name">Raw sienna </field>
+      <field name="hex_value">#D68A59</field>
+    </record>
+    <record id="Color_0712" model="dog.color">
+      <field name="name">Raw umber </field>
+      <field name="hex_value">#826644</field>
+    </record>
+    <record id="Color_0713" model="dog.color">
+      <field name="name">Razzle dazzle rose </field>
+      <field name="hex_value">#FF33CC</field>
+    </record>
+    <record id="Color_0714" model="dog.color">
+      <field name="name">Razzmatazz </field>
+      <field name="hex_value">#E3256B</field>
+    </record>
+    <record id="Color_0715" model="dog.color">
+      <field name="name">Razzmic Berry </field>
+      <field name="hex_value">#8D4E85</field>
+    </record>
+    <record id="Color_0716" model="dog.color">
+      <field name="name">Rebecca Purple </field>
+      <field name="hex_value">#663399</field>
+    </record>
+    <record id="Color_0717" model="dog.color">
+      <field name="name">Red </field>
+      <field name="hex_value">#FF0000</field>
+    </record>
+    <record id="Color_0718" model="dog.color">
+      <field name="name">Red (Crayola) </field>
+      <field name="hex_value">#EE204D</field>
+    </record>
+    <record id="Color_0719" model="dog.color">
+      <field name="name">Red (Munsell) </field>
+      <field name="hex_value">#F2003C</field>
+    </record>
+    <record id="Color_0720" model="dog.color">
+      <field name="name">Red (NCS) </field>
+      <field name="hex_value">#C40233</field>
+    </record>
+    <record id="Color_0721" model="dog.color">
+      <field name="name">Red (Pantone) </field>
+      <field name="hex_value">#ED2939</field>
+    </record>
+    <record id="Color_0722" model="dog.color">
+      <field name="name">Red (pigment) </field>
+      <field name="hex_value">#ED1C24</field>
+    </record>
+    <record id="Color_0723" model="dog.color">
+      <field name="name">Red (RYB) </field>
+      <field name="hex_value">#FE2712</field>
+    </record>
+    <record id="Color_0724" model="dog.color">
+      <field name="name">Red Salsa </field>
+      <field name="hex_value">#FD3A4A</field>
+    </record>
+    <record id="Color_0725" model="dog.color">
+      <field name="name">Red-orange </field>
+      <field name="hex_value">#FF5349</field>
+    </record>
+    <record id="Color_0726" model="dog.color">
+      <field name="name">Red-orange (Color wheel) </field>
+      <field name="hex_value">#FF4500</field>
+    </record>
+    <record id="Color_0727" model="dog.color">
+      <field name="name">Red-orange (Crayola) </field>
+      <field name="hex_value">#FF681F</field>
+    </record>
+    <record id="Color_0728" model="dog.color">
+      <field name="name">Red-purple </field>
+      <field name="hex_value">#E40078</field>
+    </record>
+    <record id="Color_0729" model="dog.color">
+      <field name="name">Red-violet </field>
+      <field name="hex_value">#C71585</field>
+    </record>
+    <record id="Color_0730" model="dog.color">
+      <field name="name">Red-violet (Color wheel) </field>
+      <field name="hex_value">#922B3E</field>
+    </record>
+    <record id="Color_0731" model="dog.color">
+      <field name="name">Red-violet (Crayola) </field>
+      <field name="hex_value">#C0448F</field>
+    </record>
+    <record id="Color_0732" model="dog.color">
+      <field name="name">Redwood </field>
+      <field name="hex_value">#A45A52</field>
+    </record>
+    <record id="Color_0733" model="dog.color">
+      <field name="name">Resolution blue </field>
+      <field name="hex_value">#002387</field>
+    </record>
+    <record id="Color_0734" model="dog.color">
+      <field name="name">Rhythm </field>
+      <field name="hex_value">#777696</field>
+    </record>
+    <record id="Color_0735" model="dog.color">
+      <field name="name">Rich black </field>
+      <field name="hex_value">#004040</field>
+    </record>
+    <record id="Color_0736" model="dog.color">
+      <field name="name">Rich black (FOGRA29) </field>
+      <field name="hex_value">#010B13</field>
+    </record>
+    <record id="Color_0737" model="dog.color">
+      <field name="name">Rich black (FOGRA39) </field>
+      <field name="hex_value">#010203</field>
+    </record>
+    <record id="Color_0738" model="dog.color">
+      <field name="name">Rifle green </field>
+      <field name="hex_value">#444C38</field>
+    </record>
+    <record id="Color_0739" model="dog.color">
+      <field name="name">Robin egg blue </field>
+      <field name="hex_value">#00CCCC</field>
+    </record>
+    <record id="Color_0740" model="dog.color">
+      <field name="name">Rocket metallic </field>
+      <field name="hex_value">#8A7F80</field>
+    </record>
+    <record id="Color_0741" model="dog.color">
+      <field name="name">Rojo Spanish red </field>
+      <field name="hex_value">#A91101</field>
+    </record>
+    <record id="Color_0742" model="dog.color">
+      <field name="name">Roman silver </field>
+      <field name="hex_value">#838996</field>
+    </record>
+    <record id="Color_0743" model="dog.color">
+      <field name="name">Rose </field>
+      <field name="hex_value">#FF007F</field>
+    </record>
+    <record id="Color_0744" model="dog.color">
+      <field name="name">Rose bonbon </field>
+      <field name="hex_value">#F9429E</field>
+    </record>
+    <record id="Color_0745" model="dog.color">
+      <field name="name">Rose Dust </field>
+      <field name="hex_value">#9E5E6F</field>
+    </record>
+    <record id="Color_0746" model="dog.color">
+      <field name="name">Rose ebony </field>
+      <field name="hex_value">#674846</field>
+    </record>
+    <record id="Color_0747" model="dog.color">
+      <field name="name">Rose madder </field>
+      <field name="hex_value">#E32636</field>
+    </record>
+    <record id="Color_0748" model="dog.color">
+      <field name="name">Rose pink </field>
+      <field name="hex_value">#FF66CC</field>
+    </record>
+    <record id="Color_0749" model="dog.color">
+      <field name="name">Rose Pompadour </field>
+      <field name="hex_value">#ED7A9B</field>
+    </record>
+    <record id="Color_0750" model="dog.color">
+      <field name="name">Rose quartz </field>
+      <field name="hex_value">#AA98A9</field>
+    </record>
+    <record id="Color_0751" model="dog.color">
+      <field name="name">Rose red </field>
+      <field name="hex_value">#C21E56</field>
+    </record>
+    <record id="Color_0752" model="dog.color">
+      <field name="name">Rose taupe </field>
+      <field name="hex_value">#905D5D</field>
+    </record>
+    <record id="Color_0753" model="dog.color">
+      <field name="name">Rose vale </field>
+      <field name="hex_value">#AB4E52</field>
+    </record>
+    <record id="Color_0754" model="dog.color">
+      <field name="name">Rosewood </field>
+      <field name="hex_value">#65000B</field>
+    </record>
+    <record id="Color_0755" model="dog.color">
+      <field name="name">Rosso corsa </field>
+      <field name="hex_value">#D40000</field>
+    </record>
+    <record id="Color_0756" model="dog.color">
+      <field name="name">Rosy brown </field>
+      <field name="hex_value">#BC8F8F</field>
+    </record>
+    <record id="Color_0757" model="dog.color">
+      <field name="name">Royal blue (dark) </field>
+      <field name="hex_value">#002366</field>
+    </record>
+    <record id="Color_0758" model="dog.color">
+      <field name="name">Royal blue (light) </field>
+      <field name="hex_value">#4169E1</field>
+    </record>
+    <record id="Color_0759" model="dog.color">
+      <field name="name">Royal purple </field>
+      <field name="hex_value">#7851A9</field>
+    </record>
+    <record id="Color_0760" model="dog.color">
+      <field name="name">Royal yellow </field>
+      <field name="hex_value">#FADA5E</field>
+    </record>
+    <record id="Color_0761" model="dog.color">
+      <field name="name">Ruber </field>
+      <field name="hex_value">#CE4676</field>
+    </record>
+    <record id="Color_0762" model="dog.color">
+      <field name="name">Rubine red </field>
+      <field name="hex_value">#D10056</field>
+    </record>
+    <record id="Color_0763" model="dog.color">
+      <field name="name">Ruby </field>
+      <field name="hex_value">#E0115F</field>
+    </record>
+    <record id="Color_0764" model="dog.color">
+      <field name="name">Ruby red </field>
+      <field name="hex_value">#9B111E</field>
+    </record>
+    <record id="Color_0765" model="dog.color">
+      <field name="name">Rufous </field>
+      <field name="hex_value">#A81C07</field>
+    </record>
+    <record id="Color_0766" model="dog.color">
+      <field name="name">Russet </field>
+      <field name="hex_value">#80461B</field>
+    </record>
+    <record id="Color_0767" model="dog.color">
+      <field name="name">Russian green </field>
+      <field name="hex_value">#679267</field>
+    </record>
+    <record id="Color_0768" model="dog.color">
+      <field name="name">Russian violet </field>
+      <field name="hex_value">#32174D</field>
+    </record>
+    <record id="Color_0769" model="dog.color">
+      <field name="name">Rust </field>
+      <field name="hex_value">#B7410E</field>
+    </record>
+    <record id="Color_0770" model="dog.color">
+      <field name="name">Rusty red </field>
+      <field name="hex_value">#DA2C43</field>
+    </record>
+    <record id="Color_0771" model="dog.color">
+      <field name="name">Sacramento State green </field>
+      <field name="hex_value">#043927</field>
+    </record>
+    <record id="Color_0772" model="dog.color">
+      <field name="name">Saddle brown </field>
+      <field name="hex_value">#8B4513</field>
+    </record>
+    <record id="Color_0773" model="dog.color">
+      <field name="name">Safety orange </field>
+      <field name="hex_value">#FF7800</field>
+    </record>
+    <record id="Color_0774" model="dog.color">
+      <field name="name">Safety orange (blaze orange) </field>
+      <field name="hex_value">#FF6700</field>
+    </record>
+    <record id="Color_0775" model="dog.color">
+      <field name="name">Safety yellow </field>
+      <field name="hex_value">#EED202</field>
+    </record>
+    <record id="Color_0776" model="dog.color">
+      <field name="name">Saffron </field>
+      <field name="hex_value">#F4C430</field>
+    </record>
+    <record id="Color_0777" model="dog.color">
+      <field name="name">Sage </field>
+      <field name="hex_value">#BCB88A</field>
+    </record>
+    <record id="Color_0778" model="dog.color">
+      <field name="name">Salmon </field>
+      <field name="hex_value">#FA8072</field>
+    </record>
+    <record id="Color_0779" model="dog.color">
+      <field name="name">Salmon pink </field>
+      <field name="hex_value">#FF91A4</field>
+    </record>
+    <record id="Color_0780" model="dog.color">
+      <field name="name">Sand </field>
+      <field name="hex_value">#C2B280</field>
+    </record>
+    <record id="Color_0781" model="dog.color">
+      <field name="name">Sand dune </field>
+      <field name="hex_value">#967117</field>
+    </record>
+    <record id="Color_0782" model="dog.color">
+      <field name="name">Sandy brown </field>
+      <field name="hex_value">#F4A460</field>
+    </record>
+    <record id="Color_0783" model="dog.color">
+      <field name="name">Sap green </field>
+      <field name="hex_value">#507D2A</field>
+    </record>
+    <record id="Color_0784" model="dog.color">
+      <field name="name">Sapphire </field>
+      <field name="hex_value">#0F52BA</field>
+    </record>
+    <record id="Color_0785" model="dog.color">
+      <field name="name">Sapphire (Crayola) </field>
+      <field name="hex_value">#0067A5</field>
+    </record>
+    <record id="Color_0786" model="dog.color">
+      <field name="name">Sapphire blue </field>
+      <field name="hex_value">#0067A5</field>
+    </record>
+    <record id="Color_0787" model="dog.color">
+      <field name="name">Satin sheen gold </field>
+      <field name="hex_value">#CBA135</field>
+    </record>
+    <record id="Color_0788" model="dog.color">
+      <field name="name">Scarlet </field>
+      <field name="hex_value">#FF2400</field>
+    </record>
+    <record id="Color_0789" model="dog.color">
+      <field name="name">Schauss pink </field>
+      <field name="hex_value">#FF91AF</field>
+    </record>
+    <record id="Color_0790" model="dog.color">
+      <field name="name">School bus yellow </field>
+      <field name="hex_value">#FFD800</field>
+    </record>
+    <record id="Color_0791" model="dog.color">
+      <field name="name">Screamin' Green </field>
+      <field name="hex_value">#66FF66</field>
+    </record>
+    <record id="Color_0792" model="dog.color">
+      <field name="name">Sea green </field>
+      <field name="hex_value">#2E8B57</field>
+    </record>
+    <record id="Color_0793" model="dog.color">
+      <field name="name">Sea green (Crayola) </field>
+      <field name="hex_value">#00FFCD</field>
+    </record>
+    <record id="Color_0794" model="dog.color">
+      <field name="name">Seal brown </field>
+      <field name="hex_value">#59260B</field>
+    </record>
+    <record id="Color_0795" model="dog.color">
+      <field name="name">Seashell </field>
+      <field name="hex_value">#FFF5EE</field>
+    </record>
+    <record id="Color_0796" model="dog.color">
+      <field name="name">Selective yellow </field>
+      <field name="hex_value">#FFBA00</field>
+    </record>
+    <record id="Color_0797" model="dog.color">
+      <field name="name">Sepia </field>
+      <field name="hex_value">#704214</field>
+    </record>
+    <record id="Color_0798" model="dog.color">
+      <field name="name">Shadow </field>
+      <field name="hex_value">#8A795D</field>
+    </record>
+    <record id="Color_0799" model="dog.color">
+      <field name="name">Shadow blue </field>
+      <field name="hex_value">#778BA5</field>
+    </record>
+    <record id="Color_0800" model="dog.color">
+      <field name="name">Shamrock green </field>
+      <field name="hex_value">#009E60</field>
+    </record>
+    <record id="Color_0801" model="dog.color">
+      <field name="name">Sheen green </field>
+      <field name="hex_value">#8FD400</field>
+    </record>
+    <record id="Color_0802" model="dog.color">
+      <field name="name">Shimmering Blush </field>
+      <field name="hex_value">#D98695</field>
+    </record>
+    <record id="Color_0803" model="dog.color">
+      <field name="name">Shiny Shamrock </field>
+      <field name="hex_value">#5FA778</field>
+    </record>
+    <record id="Color_0804" model="dog.color">
+      <field name="name">Shocking pink </field>
+      <field name="hex_value">#FC0FC0</field>
+    </record>
+    <record id="Color_0805" model="dog.color">
+      <field name="name">Shocking pink (Crayola) </field>
+      <field name="hex_value">#FF6FFF</field>
+    </record>
+    <record id="Color_0806" model="dog.color">
+      <field name="name">Sienna </field>
+      <field name="hex_value">#882D17</field>
+    </record>
+    <record id="Color_0807" model="dog.color">
+      <field name="name">Silver </field>
+      <field name="hex_value">#C0C0C0</field>
+    </record>
+    <record id="Color_0808" model="dog.color">
+      <field name="name">Silver (Crayola) </field>
+      <field name="hex_value">#C9C0BB</field>
+    </record>
+    <record id="Color_0809" model="dog.color">
+      <field name="name">Silver (Metallic) </field>
+      <field name="hex_value">#AAA9AD</field>
+    </record>
+    <record id="Color_0810" model="dog.color">
+      <field name="name">Silver chalice </field>
+      <field name="hex_value">#ACACAC</field>
+    </record>
+    <record id="Color_0811" model="dog.color">
+      <field name="name">Silver pink </field>
+      <field name="hex_value">#C4AEAD</field>
+    </record>
+    <record id="Color_0812" model="dog.color">
+      <field name="name">Silver sand </field>
+      <field name="hex_value">#BFC1C2</field>
+    </record>
+    <record id="Color_0813" model="dog.color">
+      <field name="name">Sinopia </field>
+      <field name="hex_value">#CB410B</field>
+    </record>
+    <record id="Color_0814" model="dog.color">
+      <field name="name">Sizzling Red </field>
+      <field name="hex_value">#FF3855</field>
+    </record>
+    <record id="Color_0815" model="dog.color">
+      <field name="name">Sizzling Sunrise </field>
+      <field name="hex_value">#FFDB00</field>
+    </record>
+    <record id="Color_0816" model="dog.color">
+      <field name="name">Skobeloff </field>
+      <field name="hex_value">#007474</field>
+    </record>
+    <record id="Color_0817" model="dog.color">
+      <field name="name">Sky blue </field>
+      <field name="hex_value">#87CEEB</field>
+    </record>
+    <record id="Color_0818" model="dog.color">
+      <field name="name">Sky blue (Crayola) </field>
+      <field name="hex_value">#76D7EA</field>
+    </record>
+    <record id="Color_0819" model="dog.color">
+      <field name="name">Sky magenta </field>
+      <field name="hex_value">#CF71AF</field>
+    </record>
+    <record id="Color_0820" model="dog.color">
+      <field name="name">Slate blue </field>
+      <field name="hex_value">#6A5ACD</field>
+    </record>
+    <record id="Color_0821" model="dog.color">
+      <field name="name">Slate gray </field>
+      <field name="hex_value">#708090</field>
+    </record>
+    <record id="Color_0822" model="dog.color">
+      <field name="name">Slimy green </field>
+      <field name="hex_value">#299617</field>
+    </record>
+    <record id="Color_0823" model="dog.color">
+      <field name="name">Smitten </field>
+      <field name="hex_value">#C84186</field>
+    </record>
+    <record id="Color_0824" model="dog.color">
+      <field name="name">Smoky black </field>
+      <field name="hex_value">#100C08</field>
+    </record>
+    <record id="Color_0825" model="dog.color">
+      <field name="name">Snow </field>
+      <field name="hex_value">#FFFAFA</field>
+    </record>
+    <record id="Color_0826" model="dog.color">
+      <field name="name">Solid pink </field>
+      <field name="hex_value">#893843</field>
+    </record>
+    <record id="Color_0827" model="dog.color">
+      <field name="name">Sonic silver </field>
+      <field name="hex_value">#757575</field>
+    </record>
+    <record id="Color_0828" model="dog.color">
+      <field name="name">Space cadet </field>
+      <field name="hex_value">#1D2951</field>
+    </record>
+    <record id="Color_0829" model="dog.color">
+      <field name="name">Spanish bistre </field>
+      <field name="hex_value">#807532</field>
+    </record>
+    <record id="Color_0830" model="dog.color">
+      <field name="name">Spanish blue </field>
+      <field name="hex_value">#0070B8</field>
+    </record>
+    <record id="Color_0831" model="dog.color">
+      <field name="name">Spanish carmine </field>
+      <field name="hex_value">#D10047</field>
+    </record>
+    <record id="Color_0832" model="dog.color">
+      <field name="name">Spanish gray </field>
+      <field name="hex_value">#989898</field>
+    </record>
+    <record id="Color_0833" model="dog.color">
+      <field name="name">Spanish green </field>
+      <field name="hex_value">#009150</field>
+    </record>
+    <record id="Color_0834" model="dog.color">
+      <field name="name">Spanish orange </field>
+      <field name="hex_value">#E86100</field>
+    </record>
+    <record id="Color_0835" model="dog.color">
+      <field name="name">Spanish pink </field>
+      <field name="hex_value">#F7BFBE</field>
+    </record>
+    <record id="Color_0836" model="dog.color">
+      <field name="name">Spanish red </field>
+      <field name="hex_value">#E60026</field>
+    </record>
+    <record id="Color_0837" model="dog.color">
+      <field name="name">Spanish sky blue </field>
+      <field name="hex_value">#00FFFF</field>
+    </record>
+    <record id="Color_0838" model="dog.color">
+      <field name="name">Spanish violet </field>
+      <field name="hex_value">#4C2882</field>
+    </record>
+    <record id="Color_0839" model="dog.color">
+      <field name="name">Spanish viridian </field>
+      <field name="hex_value">#007F5C</field>
+    </record>
+    <record id="Color_0840" model="dog.color">
+      <field name="name">Spring bud </field>
+      <field name="hex_value">#A7FC00</field>
+    </record>
+    <record id="Color_0841" model="dog.color">
+      <field name="name">Spring Frost </field>
+      <field name="hex_value">#87FF2A</field>
+    </record>
+    <record id="Color_0842" model="dog.color">
+      <field name="name">Spring green </field>
+      <field name="hex_value">#00FF7F</field>
+    </record>
+    <record id="Color_0843" model="dog.color">
+      <field name="name">Spring green (Crayola) </field>
+      <field name="hex_value">#ECEBBD</field>
+    </record>
+    <record id="Color_0844" model="dog.color">
+      <field name="name">St. Patrick's blue </field>
+      <field name="hex_value">#23297A</field>
+    </record>
+    <record id="Color_0845" model="dog.color">
+      <field name="name">Star command blue </field>
+      <field name="hex_value">#007BB8</field>
+    </record>
+    <record id="Color_0846" model="dog.color">
+      <field name="name">Steel blue </field>
+      <field name="hex_value">#4682B4</field>
+    </record>
+    <record id="Color_0847" model="dog.color">
+      <field name="name">Steel pink </field>
+      <field name="hex_value">#CC33CC</field>
+    </record>
+    <record id="Color_0848" model="dog.color">
+      <field name="name">Steel Teal </field>
+      <field name="hex_value">#5F8A8B</field>
+    </record>
+    <record id="Color_0849" model="dog.color">
+      <field name="name">Stil de grain yellow </field>
+      <field name="hex_value">#FADA5E</field>
+    </record>
+    <record id="Color_0850" model="dog.color">
+      <field name="name">Straw </field>
+      <field name="hex_value">#E4D96F</field>
+    </record>
+    <record id="Color_0851" model="dog.color">
+      <field name="name">Strawberry </field>
+      <field name="hex_value">#FA5053</field>
+    </record>
+    <record id="Color_0852" model="dog.color">
+      <field name="name">Strawberry Blonde </field>
+      <field name="hex_value">#ff9361</field>
+    </record>
+    <record id="Color_0853" model="dog.color">
+      <field name="name">Sugar Plum </field>
+      <field name="hex_value">#914E75</field>
+    </record>
+    <record id="Color_0854" model="dog.color">
+      <field name="name">Sunglow </field>
+      <field name="hex_value">#FFCC33</field>
+    </record>
+    <record id="Color_0855" model="dog.color">
+      <field name="name">Sunray </field>
+      <field name="hex_value">#E3AB57</field>
+    </record>
+    <record id="Color_0856" model="dog.color">
+      <field name="name">Sunset </field>
+      <field name="hex_value">#FAD6A5</field>
+    </record>
+    <record id="Color_0857" model="dog.color">
+      <field name="name">Super pink </field>
+      <field name="hex_value">#CF6BA9</field>
+    </record>
+    <record id="Color_0858" model="dog.color">
+      <field name="name">Sweet Brown </field>
+      <field name="hex_value">#A83731</field>
+    </record>
+    <record id="Color_0859" model="dog.color">
+      <field name="name">Syracuse Orange </field>
+      <field name="hex_value">#D44500</field>
+    </record>
+    <record id="Color_0860" model="dog.color">
+      <field name="name">Tan </field>
+      <field name="hex_value">#D2B48C</field>
+    </record>
+    <record id="Color_0861" model="dog.color">
+      <field name="name">Tan (Crayola) </field>
+      <field name="hex_value">#D99A6C</field>
+    </record>
+    <record id="Color_0862" model="dog.color">
+      <field name="name">Tangerine </field>
+      <field name="hex_value">#F28500</field>
+    </record>
+    <record id="Color_0863" model="dog.color">
+      <field name="name">Tango pink </field>
+      <field name="hex_value">#E4717A</field>
+    </record>
+    <record id="Color_0864" model="dog.color">
+      <field name="name">Tart Orange </field>
+      <field name="hex_value">#FB4D46</field>
+    </record>
+    <record id="Color_0865" model="dog.color">
+      <field name="name">Taupe </field>
+      <field name="hex_value">#483C32</field>
+    </record>
+    <record id="Color_0866" model="dog.color">
+      <field name="name">Taupe gray </field>
+      <field name="hex_value">#8B8589</field>
+    </record>
+    <record id="Color_0867" model="dog.color">
+      <field name="name">Tea green </field>
+      <field name="hex_value">#D0F0C0</field>
+    </record>
+    <record id="Color_0868" model="dog.color">
+      <field name="name">Tea rose </field>
+      <field name="hex_value">#F88379</field>
+    </record>
+    <record id="Color_0869" model="dog.color">
+      <field name="name">Tea rose </field>
+      <field name="hex_value">#F4C2C2</field>
+    </record>
+    <record id="Color_0870" model="dog.color">
+      <field name="name">Teal </field>
+      <field name="hex_value">#008080</field>
+    </record>
+    <record id="Color_0871" model="dog.color">
+      <field name="name">Teal blue </field>
+      <field name="hex_value">#367588</field>
+    </record>
+    <record id="Color_0872" model="dog.color">
+      <field name="name">Telemagenta </field>
+      <field name="hex_value">#CF3476</field>
+    </record>
+    <record id="Color_0873" model="dog.color">
+      <field name="name">Tenné (tawny) </field>
+      <field name="hex_value">#CD5700</field>
+    </record>
+    <record id="Color_0874" model="dog.color">
+      <field name="name">Terra cotta </field>
+      <field name="hex_value">#E2725B</field>
+    </record>
+    <record id="Color_0875" model="dog.color">
+      <field name="name">Thistle </field>
+      <field name="hex_value">#D8BFD8</field>
+    </record>
+    <record id="Color_0876" model="dog.color">
+      <field name="name">Thulian pink </field>
+      <field name="hex_value">#DE6FA1</field>
+    </record>
+    <record id="Color_0877" model="dog.color">
+      <field name="name">Tickle Me Pink </field>
+      <field name="hex_value">#FC89AC</field>
+    </record>
+    <record id="Color_0878" model="dog.color">
+      <field name="name">Tiffany Blue </field>
+      <field name="hex_value">#0ABAB5</field>
+    </record>
+    <record id="Color_0879" model="dog.color">
+      <field name="name">Timberwolf </field>
+      <field name="hex_value">#DBD7D2</field>
+    </record>
+    <record id="Color_0880" model="dog.color">
+      <field name="name">Titanium yellow </field>
+      <field name="hex_value">#EEE600</field>
+    </record>
+    <record id="Color_0881" model="dog.color">
+      <field name="name">Tomato </field>
+      <field name="hex_value">#FF6347</field>
+    </record>
+    <record id="Color_0882" model="dog.color">
+      <field name="name">Tropical rainforest </field>
+      <field name="hex_value">#00755E</field>
+    </record>
+    <record id="Color_0883" model="dog.color">
+      <field name="name">True Blue </field>
+      <field name="hex_value">#2D68C4</field>
+    </record>
+    <record id="Color_0884" model="dog.color">
+      <field name="name">Trypan Blue </field>
+      <field name="hex_value">#1C05B3</field>
+    </record>
+    <record id="Color_0885" model="dog.color">
+      <field name="name">Tufts blue </field>
+      <field name="hex_value">#3E8EDE</field>
+    </record>
+    <record id="Color_0886" model="dog.color">
+      <field name="name">Tumbleweed </field>
+      <field name="hex_value">#DEAA88</field>
+    </record>
+    <record id="Color_0887" model="dog.color">
+      <field name="name">Turquoise </field>
+      <field name="hex_value">#40E0D0</field>
+    </record>
+    <record id="Color_0888" model="dog.color">
+      <field name="name">Turquoise blue </field>
+      <field name="hex_value">#00FFEF</field>
+    </record>
+    <record id="Color_0889" model="dog.color">
+      <field name="name">Turquoise green </field>
+      <field name="hex_value">#A0D6B4</field>
+    </record>
+    <record id="Color_0890" model="dog.color">
+      <field name="name">Turtle green </field>
+      <field name="hex_value">#8A9A5B</field>
+    </record>
+    <record id="Color_0891" model="dog.color">
+      <field name="name">Tuscan </field>
+      <field name="hex_value">#FAD6A5</field>
+    </record>
+    <record id="Color_0892" model="dog.color">
+      <field name="name">Tuscan brown </field>
+      <field name="hex_value">#6F4E37</field>
+    </record>
+    <record id="Color_0893" model="dog.color">
+      <field name="name">Tuscan red </field>
+      <field name="hex_value">#7C4848</field>
+    </record>
+    <record id="Color_0894" model="dog.color">
+      <field name="name">Tuscan tan </field>
+      <field name="hex_value">#A67B5B</field>
+    </record>
+    <record id="Color_0895" model="dog.color">
+      <field name="name">Tuscany </field>
+      <field name="hex_value">#C09999</field>
+    </record>
+    <record id="Color_0896" model="dog.color">
+      <field name="name">Twilight lavender </field>
+      <field name="hex_value">#8A496B</field>
+    </record>
+    <record id="Color_0897" model="dog.color">
+      <field name="name">Tyrian purple </field>
+      <field name="hex_value">#66023C</field>
+    </record>
+    <record id="Color_0898" model="dog.color">
+      <field name="name">UA blue </field>
+      <field name="hex_value">#0033AA</field>
+    </record>
+    <record id="Color_0899" model="dog.color">
+      <field name="name">UA red </field>
+      <field name="hex_value">#D9004C</field>
+    </record>
+    <record id="Color_0900" model="dog.color">
+      <field name="name">Ultra pink </field>
+      <field name="hex_value">#FF6FFF</field>
+    </record>
+    <record id="Color_0901" model="dog.color">
+      <field name="name">Ultra red </field>
+      <field name="hex_value">#FC6C85</field>
+    </record>
+    <record id="Color_0902" model="dog.color">
+      <field name="name">Ultramarine </field>
+      <field name="hex_value">#3F00FF</field>
+    </record>
+    <record id="Color_0903" model="dog.color">
+      <field name="name">Ultramarine blue </field>
+      <field name="hex_value">#4166F5</field>
+    </record>
+    <record id="Color_0904" model="dog.color">
+      <field name="name">Umber </field>
+      <field name="hex_value">#635147</field>
+    </record>
+    <record id="Color_0905" model="dog.color">
+      <field name="name">Unbleached silk </field>
+      <field name="hex_value">#FFDDCA</field>
+    </record>
+    <record id="Color_0906" model="dog.color">
+      <field name="name">United Nations blue </field>
+      <field name="hex_value">#5B92E5</field>
+    </record>
+    <record id="Color_0907" model="dog.color">
+      <field name="name">University of Pennsylvania red </field>
+      <field name="hex_value">#A50021</field>
+    </record>
+    <record id="Color_0908" model="dog.color">
+      <field name="name">Unmellow yellow </field>
+      <field name="hex_value">#FFFF66</field>
+    </record>
+    <record id="Color_0909" model="dog.color">
+      <field name="name">UP Forest green </field>
+      <field name="hex_value">#014421</field>
+    </record>
+    <record id="Color_0910" model="dog.color">
+      <field name="name">UP maroon </field>
+      <field name="hex_value">#7B1113</field>
+    </record>
+    <record id="Color_0911" model="dog.color">
+      <field name="name">Upsdell red </field>
+      <field name="hex_value">#AE2029</field>
+    </record>
+    <record id="Color_0912" model="dog.color">
+      <field name="name">Uranian blue </field>
+      <field name="hex_value">#AFDBF5</field>
+    </record>
+    <record id="Color_0913" model="dog.color">
+      <field name="name">USAFA blue </field>
+      <field name="hex_value">#004F98</field>
+    </record>
+    <record id="Color_0914" model="dog.color">
+      <field name="name">Van Dyke brown </field>
+      <field name="hex_value">#664228</field>
+    </record>
+    <record id="Color_0915" model="dog.color">
+      <field name="name">Vanilla </field>
+      <field name="hex_value">#F3E5AB</field>
+    </record>
+    <record id="Color_0916" model="dog.color">
+      <field name="name">Vanilla ice </field>
+      <field name="hex_value">#F38FA9</field>
+    </record>
+    <record id="Color_0917" model="dog.color">
+      <field name="name">Vegas gold </field>
+      <field name="hex_value">#C5B358</field>
+    </record>
+    <record id="Color_0918" model="dog.color">
+      <field name="name">Venetian red </field>
+      <field name="hex_value">#C80815</field>
+    </record>
+    <record id="Color_0919" model="dog.color">
+      <field name="name">Verdigris </field>
+      <field name="hex_value">#43B3AE</field>
+    </record>
+    <record id="Color_0920" model="dog.color">
+      <field name="name">Vermilion </field>
+      <field name="hex_value">#E34234</field>
+    </record>
+    <record id="Color_0921" model="dog.color">
+      <field name="name">Vermilion </field>
+      <field name="hex_value">#D9381E</field>
+    </record>
+    <record id="Color_0922" model="dog.color">
+      <field name="name">Veronica </field>
+      <field name="hex_value">#A020F0</field>
+    </record>
+    <record id="Color_0923" model="dog.color">
+      <field name="name">Violet </field>
+      <field name="hex_value">#8F00FF</field>
+    </record>
+    <record id="Color_0924" model="dog.color">
+      <field name="name">Violet (color wheel) </field>
+      <field name="hex_value">#7F00FF</field>
+    </record>
+    <record id="Color_0925" model="dog.color">
+      <field name="name">Violet (crayola) </field>
+      <field name="hex_value">#963D7F</field>
+    </record>
+    <record id="Color_0926" model="dog.color">
+      <field name="name">Violet (RYB) </field>
+      <field name="hex_value">#8601AF</field>
+    </record>
+    <record id="Color_0927" model="dog.color">
+      <field name="name">Violet (web) </field>
+      <field name="hex_value">#EE82EE</field>
+    </record>
+    <record id="Color_0928" model="dog.color">
+      <field name="name">Violet-blue </field>
+      <field name="hex_value">#324AB2</field>
+    </record>
+    <record id="Color_0929" model="dog.color">
+      <field name="name">Violet-blue (Crayola) </field>
+      <field name="hex_value">#766EC8</field>
+    </record>
+    <record id="Color_0930" model="dog.color">
+      <field name="name">Violet-red </field>
+      <field name="hex_value">#F75394</field>
+    </record>
+    <record id="Color_0931" model="dog.color">
+      <field name="name">Viridian </field>
+      <field name="hex_value">#40826D</field>
+    </record>
+    <record id="Color_0932" model="dog.color">
+      <field name="name">Viridian green </field>
+      <field name="hex_value">#009698</field>
+    </record>
+    <record id="Color_0933" model="dog.color">
+      <field name="name">Vivid burgundy </field>
+      <field name="hex_value">#9F1D35</field>
+    </record>
+    <record id="Color_0934" model="dog.color">
+      <field name="name">Vivid sky blue </field>
+      <field name="hex_value">#00CCFF</field>
+    </record>
+    <record id="Color_0935" model="dog.color">
+      <field name="name">Vivid tangerine </field>
+      <field name="hex_value">#FFA089</field>
+    </record>
+    <record id="Color_0936" model="dog.color">
+      <field name="name">Vivid violet </field>
+      <field name="hex_value">#9F00FF</field>
+    </record>
+    <record id="Color_0937" model="dog.color">
+      <field name="name">Volt </field>
+      <field name="hex_value">#CEFF00</field>
+    </record>
+    <record id="Color_0938" model="dog.color">
+      <field name="name">Warm black </field>
+      <field name="hex_value">#004242</field>
+    </record>
+    <record id="Color_0939" model="dog.color">
+      <field name="name">Wheat </field>
+      <field name="hex_value">#F5DEB3</field>
+    </record>
+    <record id="Color_0940" model="dog.color">
+      <field name="name">White </field>
+      <field name="hex_value">#FFFFFF</field>
+    </record>
+    <record id="Color_0941" model="dog.color">
+      <field name="name">Wild blue yonder </field>
+      <field name="hex_value">#A2ADD0</field>
+    </record>
+    <record id="Color_0942" model="dog.color">
+      <field name="name">Wild orchid </field>
+      <field name="hex_value">#D470A2</field>
+    </record>
+    <record id="Color_0943" model="dog.color">
+      <field name="name">Wild Strawberry </field>
+      <field name="hex_value">#FF43A4</field>
+    </record>
+    <record id="Color_0944" model="dog.color">
+      <field name="name">Wild watermelon </field>
+      <field name="hex_value">#FC6C85</field>
+    </record>
+    <record id="Color_0945" model="dog.color">
+      <field name="name">Windsor tan </field>
+      <field name="hex_value">#A75502</field>
+    </record>
+    <record id="Color_0946" model="dog.color">
+      <field name="name">Wine </field>
+      <field name="hex_value">#722F37</field>
+    </record>
+    <record id="Color_0947" model="dog.color">
+      <field name="name">Wine dregs </field>
+      <field name="hex_value">#673147</field>
+    </record>
+    <record id="Color_0948" model="dog.color">
+      <field name="name">Winter Sky </field>
+      <field name="hex_value">#FF007C</field>
+    </record>
+    <record id="Color_0949" model="dog.color">
+      <field name="name">Wintergreen Dream </field>
+      <field name="hex_value">#56887D</field>
+    </record>
+    <record id="Color_0950" model="dog.color">
+      <field name="name">Wisteria </field>
+      <field name="hex_value">#C9A0DC</field>
+    </record>
+    <record id="Color_0951" model="dog.color">
+      <field name="name">Wood brown </field>
+      <field name="hex_value">#C19A6B</field>
+    </record>
+    <record id="Color_0952" model="dog.color">
+      <field name="name">Xanadu </field>
+      <field name="hex_value">#738678</field>
+    </record>
+    <record id="Color_0953" model="dog.color">
+      <field name="name">Xanthic </field>
+      <field name="hex_value">#EEED09</field>
+    </record>
+    <record id="Color_0954" model="dog.color">
+      <field name="name">Xanthous </field>
+      <field name="hex_value">#F1B42F</field>
+    </record>
+    <record id="Color_0955" model="dog.color">
+      <field name="name">Yale Blue </field>
+      <field name="hex_value">#00356B</field>
+    </record>
+    <record id="Color_0956" model="dog.color">
+      <field name="name">Yellow </field>
+      <field name="hex_value">#FFFF00</field>
+    </record>
+    <record id="Color_0957" model="dog.color">
+      <field name="name">Yellow (Crayola) </field>
+      <field name="hex_value">#FCE883</field>
+    </record>
+    <record id="Color_0958" model="dog.color">
+      <field name="name">Yellow (Munsell) </field>
+      <field name="hex_value">#EFCC00</field>
+    </record>
+    <record id="Color_0959" model="dog.color">
+      <field name="name">Yellow (NCS) </field>
+      <field name="hex_value">#FFD300</field>
+    </record>
+    <record id="Color_0960" model="dog.color">
+      <field name="name">Yellow (Pantone) </field>
+      <field name="hex_value">#FEDF00</field>
+    </record>
+    <record id="Color_0961" model="dog.color">
+      <field name="name">Yellow (process) </field>
+      <field name="hex_value">#FFEF00</field>
+    </record>
+    <record id="Color_0962" model="dog.color">
+      <field name="name">Yellow (RYB) </field>
+      <field name="hex_value">#FEFE33</field>
+    </record>
+    <record id="Color_0963" model="dog.color">
+      <field name="name">Yellow Orange </field>
+      <field name="hex_value">#FFAE42</field>
+    </record>
+    <record id="Color_0964" model="dog.color">
+      <field name="name">Yellow Orange (Color Wheel) </field>
+      <field name="hex_value">#FF9505</field>
+    </record>
+    <record id="Color_0965" model="dog.color">
+      <field name="name">Yellow Sunshine </field>
+      <field name="hex_value">#FFF700</field>
+    </record>
+    <record id="Color_0966" model="dog.color">
+      <field name="name">Yellow-green </field>
+      <field name="hex_value">#9ACD32</field>
+    </record>
+    <record id="Color_0967" model="dog.color">
+      <field name="name">Yellow-green (Color Wheel) </field>
+      <field name="hex_value">#30B21A</field>
+    </record>
+    <record id="Color_0968" model="dog.color">
+      <field name="name">Yellow-green (Crayola) </field>
+      <field name="hex_value">#C5E384</field>
+    </record>
+    <record id="Color_0969" model="dog.color">
+      <field name="name">YInMn Blue </field>
+      <field name="hex_value">#2E5090</field>
+    </record>
+    <record id="Color_0970" model="dog.color">
+      <field name="name">Zaffre </field>
+      <field name="hex_value">#0014A8</field>
+    </record>
+    <record id="Color_0971" model="dog.color">
+      <field name="name">Zomp </field>
+      <field name="hex_value">#39A78E</field>
+    </record>
+
+  </data>
+</odoo>

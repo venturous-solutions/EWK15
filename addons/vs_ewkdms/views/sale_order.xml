@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <!-- modify sale.order line in sale.order.view-->
+    <record id="view_sale_order_sale_order_line" model="ir.ui.view">
+      <field name="name">tree.sale.order.sale.order.line</field>
+      <field name="model">sale.order</field>
+      <field name="inherit_id" ref="sale.view_order_form" />
+      <field name="arch" type="xml">
+        <xpath expr="//tree//field[@name='product_id']" position="after">
+          <field name="dog_id" required="1" domain="[('owner_id', '=', parent.partner_id)]"/>
+        </xpath>
+      </field>
+    </record>
+
+  </data>
+</odoo>
